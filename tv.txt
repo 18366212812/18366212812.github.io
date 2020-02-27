@@ -1,12 +1,9 @@
-港台新闻
-
+港台新闻,#genre#
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv,tvming-PhoenixTVHD
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv,tvming-PhoenixinfoTVHD
 凤凰资讯,http://live.centerch.com/fhzx.m3u8
 
-
-
-港台影视
+港台影视,#genre#
 公视,vjms://58.215.133.185:8500:3502/live/cid=236,tvming-PTS
 民视,vjms://58.215.133.185:8500:3502/live/cid=450
 MTV,vjms://58.215.133.185:8500:3502/live/cid=52
@@ -162,7 +159,7 @@ TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台,http://m.567it.com/jade.m3u8
 
-台湾
+台湾,#genre#
 
 公视,vjms://23.237.33.155:8500:3502/live/cid=236
 
@@ -200,12 +197,8 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVBS精采台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
 大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
 
-港台体育
 
 纬来体育,vjms://23.237.33.155:8500:3502/live/cid=202
-
-
-
 ELTA体育,vjms://23.237.33.155:8500:3502/live/cid=266
 ELTA体育2,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
 ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
@@ -215,9 +208,6 @@ ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-
-港台育乐
-
 
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://23.237.33.155:8500:3502/live/cid=115
@@ -242,7 +232,7 @@ StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
-轮播频道
+轮播频道,#genre#
 CIBN好莱坞片,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 CIBN院线大片,http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 CIBN电影综合,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
@@ -262,7 +252,7 @@ CIBN骄阳剧场,http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?w
 亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 
-亲子卡通
+亲子卡通,#genre#
 
 迪斯尼,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
@@ -274,7 +264,7 @@ MOMO亲子台,P2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
 Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 
-港台测试
+港台测试,#genre#
 东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
 三立台湾,p2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
 TVBS精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
