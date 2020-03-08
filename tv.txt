@@ -248,7 +248,6 @@ CCTV-15高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=z
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
@@ -257,7 +256,7 @@ CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 
-纳加,#genre#
+纳加58,#genre#
 
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 CNN,vjms://58.215.133.185:8500:3502/live/cid=428
