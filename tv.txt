@@ -953,7 +953,10 @@ CHC高清电影,http://itv.ahcme.edu.cn/hls/chchd.m3u8
 熊猫频道高清,http://itv.ahcme.edu.cn/hls/hls148.m3u8
 
 
-台湾,#genre#
+华数咪咕台湾,#genre#
+chc高清,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
+chc家庭,http://125.210.152.18:9090/live/JTYYHD.m3u8#migu://644368370
+chc动作,http://125.210.152.18:9090/live/DZDYHD.m3u8#migu://644368610
 民視HD,http://58.99.33.2:1935/liveedge2/JIAACJMc_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 CNN國際新聞,http://58.99.33.2:1935/liveedge2/JIAACJMc_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 台視HD,http://58.99.33.2:1935/liveedge2/JIAACJMc_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
