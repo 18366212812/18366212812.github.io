@@ -136,7 +136,6 @@ CCTV-15高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=z
 日照科教2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8#http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
 日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
-齐鲁频道,rtsp://119.164.58.180:554/PLTV/88888888/224/3221226516/10000100000000060000000001311826_0.smil
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
