@@ -191,9 +191,8 @@ CCTV-15高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=z
 
 
 香港,#genre#
-
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852#http://live.centerch.com/fhzx.m3u8
+凤凰卫视,http://live.centerch.com/fhzw.m3u8#http://liveali.ifeng.com/live/FHZW.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+凤凰资讯,http://live.centerch.com/fhzx.m3u8#http://liveali.ifeng.com/live/FHZX.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852#http://live.centerch.com/fhzx.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
