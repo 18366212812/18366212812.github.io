@@ -1281,7 +1281,7 @@ TVBS新闻 ,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 ELTA体育3 ,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 
 
-山东移动,#genre#
+浙江移动,#genre#
 凤凰中文HD,http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
 凤凰资讯HD,http://112.17.40.145/PLTV/88888888/224/3221226491/index.m3u8
 凤凰香港HD,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
