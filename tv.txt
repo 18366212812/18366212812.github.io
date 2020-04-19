@@ -273,8 +273,9 @@ CETV4,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
 神探狄仁杰,https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
 
 香港,#genre#
-凤凰卫视,http://live.centerch.com/fhzw.m3u8#http://liveali.ifeng.com/live/FHZW.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
-凤凰资讯,http://live.centerch.com/fhzx.m3u8#http://liveali.ifeng.com/live/FHZX.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852#http://live.centerch.com/fhzx.m3u8
+凤凰卫视,http://qlive.fengshows.cn/PCC.flv#http://live.centerch.com/fhzw.m3u8#http://liveali.ifeng.com/live/FHZW.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+凤凰资讯,http://qlive.fengshows.cn/PIN.flv#http://live.centerch.com/fhzx.m3u8#http://liveali.ifeng.com/live/FHZX.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852#http://live.centerch.com/fhzx.m3u8
+凤凰香港,http://qlive.fengshows.cn/PHK.flv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
