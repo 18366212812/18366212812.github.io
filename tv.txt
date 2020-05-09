@@ -114,10 +114,6 @@ CCTV电视指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomai
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
-CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
@@ -155,7 +151,10 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 风景,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
 
 电影,#genre#
-
+CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 李连杰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 林正英,http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
