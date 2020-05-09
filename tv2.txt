@@ -150,7 +150,8 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 风景,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
 
-浙江1卫视,,http://ali.m.l.cztv.com/channels/lantian/channel13/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8
+浙江,#genre#
+浙江1卫视,http://ali.m.l.cztv.com/channels/lantian/channel13/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8
 浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
 浙江3经济生活,http://ali.m.l.cztv.com/channels/lantian/channel03/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8
@@ -161,7 +162,6 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 浙江8少儿,http://ali.m.l.cztv.com/channels/lantian/channel08/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel08/540p.m3u8
 浙江留学世界,http://ali.m.l.cztv.com/channels/lantian/channel09/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel09/540p.m3u8
 浙江数码时代,http://ali.m.l.cztv.com/channels/lantian/channel12/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel12/540p.m3u8
-中国蓝新闻15,http://ali.m.l.cztv.com/channels/lantian/channel15/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel15/540p.m3u8
 
 电影,#genre#
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
