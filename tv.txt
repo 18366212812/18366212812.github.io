@@ -1,13 +1,3 @@
-凤凰卫视,#genre#
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-
 CCTV,#genre#
 CCTV-1,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-2,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -138,10 +128,21 @@ iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=z
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqtv.m3u8
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 海南卫视,http://ivi.bupt.edu.cn/hls/lytv.m3u8
-
 山东教育,rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
 
-
+凤凰,#genre#
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 
 日照,#genre#
 日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
@@ -150,13 +151,6 @@ iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=z
 日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
-东方影视,http://live1.nty.tv189.com/tm-shdsj-800k.m3u8
-上海纪实,http://live1.nty.tv189.com/tm-shjishi-800k.m3u8
-劲爆体育,http://live1.nty.tv189.com/tm-jbsporthd-800k.m3u8
-第一财经,http://live1.nty.tv189.com/tm-cbnhd-800k.m3u8
-潮体育,http://live1.nty.tv189.com/tm-ctyty-800k.m3u8
-e娱乐,http://live1.nty.tv189.com/tm-eylty-800k.m3u8
-i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 黄岛新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
 黄岛生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
@@ -166,12 +160,20 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 武汉5文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉6外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉7少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
+东方影视,http://live1.nty.tv189.com/tm-shdsj-800k.m3u8
+上海纪实,http://live1.nty.tv189.com/tm-shjishi-800k.m3u8
+劲爆体育,http://live1.nty.tv189.com/tm-jbsporthd-800k.m3u8
+第一财经,http://live1.nty.tv189.com/tm-cbnhd-800k.m3u8
+潮体育,http://live1.nty.tv189.com/tm-ctyty-800k.m3u8
+e娱乐,http://live1.nty.tv189.com/tm-eylty-800k.m3u8
+i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
+
+雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-大别山,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
+风景,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
 
-虎牙电影,#genre#
+电影,#genre#
 
 李连杰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 林正英,http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
@@ -230,7 +232,3 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 
-澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
