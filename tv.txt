@@ -204,4 +204,33 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 倚天屠龙记,https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8
 神探狄仁杰,https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
 
+收音机,#genre#
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
+CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 交通,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR 交通,http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
+CNR 乡村,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 乡村,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中华,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 中华,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
+CNR 老年,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 老年,http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
+CNR 民族,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 民族,http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
+CNR 神州,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 神州,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+CNR 文艺,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 文艺,http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+CNR 香港,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 香港,http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
+CNR 华夏,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 华夏,http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
 
