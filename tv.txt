@@ -224,9 +224,6 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 
 
 电影,#genre#
-
-CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
