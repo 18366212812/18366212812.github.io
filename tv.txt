@@ -14,8 +14,6 @@ CCTV-12高清,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=z
 CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-14高清,http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-5+,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
-CCTV-17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -76,7 +74,7 @@ iHoT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=z
 iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
-北京邮电,#genre#
+凤凰卫视,#genre#
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 
@@ -162,7 +160,8 @@ STAR SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-地方,#genre#
+
+日照,#genre#
 日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
