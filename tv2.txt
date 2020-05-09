@@ -150,18 +150,18 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 风景,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
 
-浙江1卫视,,http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel13/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel13/1080p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel01/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel10/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel10/1080p.m3u8
-浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel02/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江3经济生活,http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel03/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江4教育科技,http://ali.m.l.cztv.com/channels/lantian/channel04/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel04/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江5影视娱乐,http://ali.m.l.cztv.com/channels/lantian/channel05/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel05/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel05/1080p.m3u8
-浙江6台,http://ali.m.l.cztv.com/channels/lantian/channel06/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel06/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江7公共新闻,http://ali.m.l.cztv.com/channels/lantian/channel07/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel07/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel07/1080p.m3u8
-浙江8少儿,http://ali.m.l.cztv.com/channels/lantian/channel08/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel08/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江留学世界,http://ali.m.l.cztv.com/channels/lantian/channel09/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel09/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel09/1080p.m3u8
-浙江数码时代,http://ali.m.l.cztv.com/channels/lantian/channel12/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel12/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel12/1080p.m3u8
-中国蓝新闻15,http://ali.m.l.cztv.com/channels/lantian/channel15/540p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel15/720p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel15/1080p.m3u8
+浙江1卫视,,http://ali.m.l.cztv.com/channels/lantian/channel13/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8
+浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
+浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
+浙江3经济生活,http://ali.m.l.cztv.com/channels/lantian/channel03/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8
+浙江4教育科技,http://ali.m.l.cztv.com/channels/lantian/channel04/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel04/540p.m3u8
+浙江5影视娱乐,http://ali.m.l.cztv.com/channels/lantian/channel05/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel05/540p.m3u8
+浙江6台,http://ali.m.l.cztv.com/channels/lantian/channel06/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel06/540p.m3u8
+浙江7公共新闻,http://ali.m.l.cztv.com/channels/lantian/channel07/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel07/540p.m3u8
+浙江8少儿,http://ali.m.l.cztv.com/channels/lantian/channel08/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel08/540p.m3u8
+浙江留学世界,http://ali.m.l.cztv.com/channels/lantian/channel09/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel09/540p.m3u8
+浙江数码时代,http://ali.m.l.cztv.com/channels/lantian/channel12/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel12/540p.m3u8
+中国蓝新闻15,http://ali.m.l.cztv.com/channels/lantian/channel15/360p.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel15/540p.m3u8
 
 电影,#genre#
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
