@@ -143,6 +143,10 @@ iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=z
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
+CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 日照,#genre#
 日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
@@ -151,8 +155,8 @@ iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=z
 日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
-黄岛新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
-黄岛生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
+黄岛1新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
+黄岛2生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉2电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉3科技,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -223,12 +227,5 @@ i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 鹿鼎记,https://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
 倚天屠龙记,https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8
 神探狄仁杰,https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
-
-
-电影,#genre#
-CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
-CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 
