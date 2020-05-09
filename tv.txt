@@ -5,14 +5,9 @@ CCTV-3,http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.liv
 CCTV-4,http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-5,http://101.71.255.229:6610/zjhs/2/10075/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-6,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-7高清,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-8,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-9高清,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-10高清,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-11,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-12高清,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-14高清,http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
