@@ -9,21 +9,6 @@ CCTV-8,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.liv
 CCTV-11,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5.m3u8
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 
 卫视,#genre#
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -34,7 +19,6 @@ CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江卫视高清,http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 黑龙江卫视,http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -57,25 +41,15 @@ CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 留学世界,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 工地直播,http://101.71.255.229:6610/zjhs/2/10123/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-北京卡通,http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-广东卡通,http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-湖南卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-江苏卡通,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-上海卡通,http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-电影1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-电影2,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-动画片,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV电视指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
 北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
-北京体育,http://ivi.bupt.edu.cn/hls/btv6.m3u8
 北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
-卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
+浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 深圳卫视,http://ivi.bupt.edu.cn/hls/sztv.m3u8
 安徽卫视,http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
@@ -102,14 +76,19 @@ CCTV电视指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomai
 云南卫视,http://ivi.bupt.edu.cn/hls/yntv.m3u8
 江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 东南卫视,http://ivi.bupt.edu.cn/hls/dntv.m3u8
-浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 贵州卫视,http://ivi.bupt.edu.cn/hls/gztv.m3u8
 宁夏卫视,http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 甘肃卫视,http://ivi.bupt.edu.cn/hls/gstv.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqtv.m3u8
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 海南卫视,http://ivi.bupt.edu.cn/hls/lytv.m3u8
-山东教育,rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
+上海东方影视,http://live1.nty.tv189.com/tm-shdsj-800k.m3u8
+上海纪实,http://live1.nty.tv189.com/tm-shjishi-800k.m3u8
+上海劲爆体育,http://live1.nty.tv189.com/tm-jbsporthd-800k.m3u8
+上海第一财经,http://live1.nty.tv189.com/tm-cbnhd-800k.m3u8
+上海潮体育,http://live1.nty.tv189.com/tm-ctyty-800k.m3u8
+上海e娱乐,http://live1.nty.tv189.com/tm-eylty-800k.m3u8
+上海i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
 
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
@@ -135,26 +114,18 @@ CCTV电视指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomai
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 黄岛-1新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
 黄岛-2生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
-雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-东方影视,http://live1.nty.tv189.com/tm-shdsj-800k.m3u8
-上海纪实,http://live1.nty.tv189.com/tm-shjishi-800k.m3u8
-劲爆体育,http://live1.nty.tv189.com/tm-jbsporthd-800k.m3u8
-第一财经,http://live1.nty.tv189.com/tm-cbnhd-800k.m3u8
-潮体育,http://live1.nty.tv189.com/tm-ctyty-800k.m3u8
-e娱乐,http://live1.nty.tv189.com/tm-eylty-800k.m3u8
-i综艺,http://live1.nty.tv189.com/tm-izyty-800k.m3u8
-
-
 雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-风景,http://gccncc.v.wscdns.com/gc/jyg04_1/index.m3u8
+武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+
 
 电影,#genre#
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
+中文电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 李连杰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 林正英,http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
@@ -231,6 +202,5 @@ CNR 香港,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 CNR 香港,http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
 CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
-CNR 华夏,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-CNR 华夏,http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
+
 
