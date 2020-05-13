@@ -104,7 +104,6 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 
-
 日照,#genre#
 日照-1综合,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照-2科教,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
@@ -118,7 +117,6 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-
 
 电影,#genre#
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
@@ -142,17 +140,17 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 刘   涛,http://aldirect.rtmp.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
 王   晶,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 胡   军,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
-唐国强,http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+还珠格格,https://al.rtmp.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_2500.m3u8
+雍正王朝,http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+亮  剑,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+亮  剑,https://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
 苏有朋,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
 张卫健,http://aldirect.rtmp.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
 陈小春,http://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
 黄百鸣,http://aldirect.rtmp.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
 郑伊健,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 陈浩民,http://aldirect.rtmp.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
-亮  剑,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
-亮  剑,https://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
 易中天,http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
-
 历年贺岁,https://aldirect.rtmp.huya.com/backsrc/wss://al.p2p.huya.com/huyalive/websocket/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_2500.m3u8
 国产战争片,https://aldirect.rtmp.huya.com/backsrc/94525224-2579672162-11079607570191613952-2789274580-10057-A-0-1_2500.m3u8
 黑帮大片,https://al.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8
@@ -161,9 +159,7 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 国产搞笑喜剧,https://aldirect.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_2500.m3u8
 开心鬼,https://aldirect.rtmp.huya.com/backsrc/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
 港产搞笑,https://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1_2500.m3u8
-雍正王朝,https://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_2500.m3u8
 家有儿女,https://aldirect.rtmp.huya.com/backsrc/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_2500.m3u8
-还珠格格,https://al.rtmp.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_2500.m3u8
 少年包青天,https://aldirect.rtmp.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2500.m3u8
 新水浒传,https://aldirect.rtmp.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_2500.m3u8
 新三国,https://aldirect.rtmp.huya.com/backsrc/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_2500.m3u8
@@ -177,30 +173,17 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 收音机,#genre#
 CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
 CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
-CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
 CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
 CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CNR 交通,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CNR 交通,http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
 CNR 乡村,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-CNR 乡村,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
 CNR 中华,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR 中华,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
 CNR 老年,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-CNR 老年,http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
 CNR 民族,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-CNR 民族,http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
 CNR 神州,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-CNR 神州,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
 CNR 文艺,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR 文艺,http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
 CNR 香港,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-CNR 香港,http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
 CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-CNR 音乐,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 
 
