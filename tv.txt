@@ -17,6 +17,15 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江1卫视,http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8
+浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
+浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
+浙江3经济,http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8
+浙江4科教,http://ali.m.l.cztv.com/channels/lantian/channel04/540p.m3u8
+浙江5影视,http://ali.m.l.cztv.com/channels/lantian/channel05/540p.m3u8
+浙江6台,http://ali.m.l.cztv.com/channels/lantian/channel06/540p.m3u8
+浙江7公共,http://ali.m.l.cztv.com/channels/lantian/channel07/540p.m3u8
+浙江8少儿,http://ali.m.l.cztv.com/channels/lantian/channel08/540p.m3u8
 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -122,11 +131,8 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 云台山红石峡,http://gccncc.v.wscdns.com/gc/ytshsx_1.flv
 云台山小寨沟,http://gcalic.v.myalicdn.com/gc/ytsxzg_1.flv
 云台山百家岩,http://gccncc.v.wscdns.com/gc/ytsbjy_1.flv
-云台山茱萸峰,http://gcalic.v.myalicdn.com/gc/ytszyf_1.flv
 CCTV塔东,http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 CCTV塔西,http://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8?contentid=2820180516001
-宁夏1,http://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
-宁夏2,http://gcksc.v.kcdnvip.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
