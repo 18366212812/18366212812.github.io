@@ -5,10 +5,22 @@ CCTV-3,http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.liv
 CCTV-4,http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-5,http://101.71.255.229:6610/zjhs/2/10075/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-6,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-7,http://112.17.40.145/PLTV/88888888/224/3221226607/index.m3u8
 CCTV-8,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-9,http://112.17.40.145/PLTV/88888888/224/3221226609/index.m3u8
+CCTV-10,http://112.17.40.145/PLTV/88888888/224/3221226498/index.m3u8
 CCTV-11,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-12,http://112.17.40.145/PLTV/88888888/224/3221226520/index.m3u8
 CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14,http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+CCTV风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+CCTV风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+CCTV风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+CCTV怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+CCTV世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+CCTV国防军事,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
 
 卫视,#genre#
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -62,7 +74,10 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
@@ -84,6 +99,10 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 蓬莱-2,http://jsylivealone302.iqilu.com/live/penglai_tv02/index.m3u8
 莒南-1,http://alylivealone302.iqilu.com/live/junan_tv01.m3u8
 莒南-2,http://alylivealone302.iqilu.com/live/junan_tv02.m3u8
+莒县-1,http://61.162.225.122:8181/live/test1.m3u8
+莒县-2,http://61.162.225.122:8181/live/test2.m3u8
+黄岛-1新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
+黄岛-2生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 招远-1,http://livealone302.iqilu.com/zhaoyuan/zhaoyuan_tv01/playlist.m3u8
 招远-2,http://livealone302.iqilu.com/zhaoyuan/zhaoyuan_tv02/playlist.m3u8
 高密-1,http://livealone302.iqilu.com/gaomi/gaomi_tv01/playlist.m3u8
@@ -117,16 +136,17 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.li
 张店2,http://alylivealone302.iqilu.com/live/zhangdian_tv02.m3u8
 宁阳,http://jsylivealone302.iqilu.com/live/ningyang_tv01/index.m3u8
 临清,http://livealone302.iqilu.com/linqing/linqing_tv01/playlist.m3u8
-莒县-1,http://61.162.225.122:8181/live/test1.m3u8
-莒县-2,http://61.162.225.122:8181/live/test2.m3u8
-黄岛-1新闻,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
-黄岛-2生活,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 
 电影,#genre#
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
