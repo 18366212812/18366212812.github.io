@@ -33,7 +33,6 @@ CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 CCTV-17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-CCTV-17,http://ivi.bupt.edu.cn/hls/cctv17hd
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
