@@ -14,6 +14,7 @@ CCTV-12 社会与法,http://112.17.40.145/PLTV/88888888/224/3221226520/index.m3u
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-14 少儿,http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 CCTV 风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
 CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
 CCTV 风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
