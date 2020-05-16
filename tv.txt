@@ -77,7 +77,9 @@ CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CCTV景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
+青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
