@@ -24,7 +24,21 @@ CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-
+CCTV-1,http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8
+CCTV-2,http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8
+CCTV-3,http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
+CCTV-4,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+CCTV-5,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+CCTV-6,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+CCTV-7,http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
+CCTV-8,http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
+CCTV-9,http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
+CCTV-10,http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
+CCTV-11,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
+CCTV-12,http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
+CCTV-13 ,http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
+CCTV-14,http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
+CCTV-15,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 卫视,#genre#
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
