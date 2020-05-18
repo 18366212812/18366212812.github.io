@@ -72,9 +72,34 @@ CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 
 
-凤凰,#genre#
+台湾凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+中天新闻,http://pull-hls-l1-hs.pstatp.com/stage/uuu10059ppp/playlist.m3u8
+中天综合,http://pull-hls-l1-hs.pstatp.com/stage/uuu10060ppp/playlist.m3u8
+三立新闻,http://pull-hls-l1-hs.pstatp.com/stage/uuu10065ppp/playlist.m3u8
+TVBS新闻,http://pull-hls-l1-hs.pstatp.com/stage/uuu10066ppp/playlist.m3u8
+东森综合,http://pull-hls-l1-hs.pstatp.com/stage/uuu10046ppp/playlist.m3u8
+东森超视,http://pull-hls-l1-hs.pstatp.com/stage/uuu10062ppp/playlist.m3u8
+东森电影,http://pull-hls-l1-hs.pstatp.com/stage/uuu10049ppp/playlist.m3u8
+东森戏剧,http://pull-hls-l1-hs.pstatp.com/stage/uuu10045ppp/playlist.m3u8
+TVBS欢乐,http://pull-hls-l1-hs.pstatp.com/stage/uuu10033ppp/playlist.m3u8
+八大综合,http://pull-hls-l1-hs.pstatp.com/stage/uuu10055ppp/playlist.m3u8
+八大第一,http://pull-hls-l1-hs.pstatp.com/stage/uuu10057ppp/playlist.m3u8
+FOX体育,http://pull-hls-l1-hs.pstatp.com/stage/uuu10040ppp/playlist.m3u8
+FOX体育2,http://pull-hls-l1-hs.pstatp.com/stage/uuu10041ppp/playlist.m3u8
+纬来体育,http://pull-hls-l1-hs.pstatp.com/stage/uuu10042ppp/playlist.m3u8
+博斯体育2,http://pull-hls-l1-hs.pstatp.com/stage/uuu10009ppp/playlist.m3u8
+JET综合,http://pull-hls-l1-hs.pstatp.com/stage/uuu10030ppp/playlist.m3u8
+纬来育乐,http://pull-hls-l1-hs.pstatp.com/stage/uuu10032ppp/playlist.m3u8
+FOX电影,http://pull-hls-l1-hs.pstatp.com/stage/uuu10038ppp/playlist.m3u8
+好莱坞电影,http://pull-hls-l1-hs.pstatp.com/stage/uuu10039ppp/playlist.m3u8
+星卫娱乐台,http://pull-hls-l1-hs.pstatp.com/stage/uuu10048ppp/playlist.m3u8
+东森洋片,http://pull-hls-l1-hs.pstatp.com/stage/uuu10051ppp/playlist.m3u8
+NHK日本,http://pull-hls-l1-hs.pstatp.com/stage/uuu10053ppp/playlist.m3u8
+非凡商业,http://pull-hls-l1-hs.pstatp.com/stage/uuu10054ppp/playlist.m3u8
+卫视中文,http://pull-hls-l1-hs.pstatp.com/stage/uuu10058ppp/playlist.m3u8
+动物星球,http://pull-hls-l1-hs.pstatp.com/stage/uuu10068ppp/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
