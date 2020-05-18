@@ -1,9 +1,14 @@
 台湾,#genre#
 中天综合,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天娱乐,http://live3.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 东森新闻,http://live3.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森电影,http://live3.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://live3.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 中视综合,http://live3.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 八大综合,http://live3.ocnttv.com:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+年代新闻,http://live3.ocnttv.com:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+龙翔时代,http://live3.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
 
 淄博移动,#genre#
 CCTV1,http://120.221.5.113:8089/PLTV/88888888/224/3221225919/index.m3u8
