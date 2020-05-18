@@ -1,3 +1,112 @@
+台湾,#genre#
+壹電視新聞,http://198.16.106.58:8278/b27b0b ... 978de195e3b5231dd69
+壹電視綜合,http://198.16.106.58:8278/b8fce5 ... 1d250cf46af768cbdd9
+好萊塢電影台,http://198.16.106.58:8278/hollyw ... 4dc27e743c5bbb454d3
+寰宇新聞1台,http://198.16.106.58:8278/d43300 ... 77ad88dd0b7cde69ce6
+寰宇綜合台,http://198.16.106.58:8278/5351ca ... 830017d555872dd71d5
+寰宇新聞2台,http://198.16.106.58:8278/videol ... d3f8e9f0214d26d2c1e
+寰宇財經台,http://198.16.106.58:8278/abdf43 ... 83712c3e59854515937
+年代新聞台,http://198.16.106.58:8278/nianda ... e85b37f9d93167b9fcd
+非凡新聞台,http://198.16.106.58:8278/feifan ... c69a6c2ca51b21ae378
+民視新聞台,http://198.16.106.58:8278/ftvnew ... 001dd41392b210ba406
+中天亞洲台,http://198.16.106.58:8278/ctiasi ... 718afeb8fc9a18fa964
+中天娛樂台,http://198.16.106.58:8278/ctient ... b0685447b7656d550e3
+中天綜合台,http://198.16.106.58:8278/ctizho ... 9d2ee683b28cdb1c8ca
+中視經典台,http://198.16.106.58:8278/zhongs ... 98b1449cb26a01150c0
+BBC Earth,http://198.16.106.58:8278/bbcear ... a4a7927a793263b91bf
+BBC Lifestyle,http://198.16.106.58:8278/bbcear ... d54eb0ca9345f2f2d88
+BaBy-TV,http://198.16.106.58:8278/babytv ... 0c75ba08c75acab2406
+Boomerang,http://198.16.106.58:8278/boomer ... c22a0fa40c63d74a697
+CATCHPLAY 電影台,http://198.16.106.58:8278/catchp ... 3cb5c50d0d600357cb0
+CBeebies,http://198.16.106.58:8278/diva_t ... ea763734b2e0af3ecee
+CINEMAX,http://198.16.106.58:8278/cinema ... e72ea3d0f0d84ed6df1
+CN卡通頻道,http://198.16.106.58:8278/momo1_ ... 7e76ad1418654c8ccd4
+CinemaWorld,http://198.16.106.58:8278/cinema ... ca337b960d026115460
+ELEVEN SPORTS 1,http://198.16.106.58:8278/golfch ... 73b86bb40d392e95f23
+ELEVEN SPORTS 2,http://198.16.106.58:8278/luxetv ... d7b5a1cbc62360f08c4
+EYE TV戲劇台,http://198.16.106.58:8278/eyetvx ... 5e00797ad6f4c4cb586
+EYE TV旅遊台,http://198.16.106.58:8278/eyetvt ... 2e57372f408b9ccd0bc
+FOX-動作,http://198.16.106.58:8278/foxact ... 7ab78a7dbd2faaf4ad1
+FOX-娛樂,http://198.16.106.58:8278/foxhd_ ... 93ad3a1d18f2224120a
+FOX-家庭,http://198.16.106.58:8278/foxfam ... e6db1010482ffd9175f
+FOX-警匪,http://198.16.106.58:8278/foxcri ... d9e8bfd9e1c13a653fc
+FOX體育3台,http://198.16.106.58:8278/foxspo ... eaa5d552ec102136011
+FX-HD,http://198.16.106.58:8278/fxhd_t ... f875adb0ddb5f09d0d4
+HBO-HD,http://198.16.106.58:8278/hbohd_ ... 34db52b017576b00403
+HBO-原創,http://198.16.106.58:8278/hbosig ... 098b4118400117b4fbb
+HBO-強檔,http://198.16.106.58:8278/hbohit ... 34dd956619fd0f36a22
+History 2,http://198.16.106.58:8278/histor ... 78ae92670a427f15300
+MTV-LIVE,http://198.16.106.58:8278/mtvliv ... 793c5bf61e08fea5e77
+MTV-音樂台,http://198.16.106.58:8278/mtvtai ... d91e1e3d0210a3cec4e
+MY-KIDS,http://198.16.106.58:8278/mykids ... 4ee5eb9488851a53ae2
+Outdoor,http://198.16.106.58:8278/outdoo ... a793ca9a39689362411
+SMART知識台,http://198.16.106.58:8278/865685 ... 5d17cb8434b1b779ad9
+Star Movies,http://198.16.106.58:8278/6bff18 ... c51014621f1e1e21a51
+TLC旅遊生活,http://198.16.106.58:8278/tlcasi ... 229dcb10d0a2b876319
+TVBS歡樂台,http://198.16.106.58:8278/tvbs_g ... 9ee3ae9da7211c31704
+Warner TV,http://198.16.106.58:8278/warnat ... 83255784ff966d404af
+三立台灣台,http://198.16.106.58:8278/sanlit ... b7ebb803807e38b33fb
+三立戲劇台,http://198.16.106.58:8278/sanlix ... f0814429021b438094f
+三立綜合台,http://198.16.106.58:8278/sanliz ... bf52fe5e836ca9f3b6b
+亞洲旅遊台,http://198.16.106.58:8278/asiatr ... 2a8c9bf38464433dc7d
+亞洲美食台,http://198.16.106.58:8278/asiafo ... 1070faa655fa5b48779
+佛衛慈悲台,http://198.16.106.58:8278/setant ... e3816f7bb36255b886b
+八大娛樂台,http://198.16.106.58:8278/badaen ... d5bd856f80d16bb3f27
+八大戲劇台,http://198.16.106.58:8278/badadr ... 6ab9e44edb542cf51a5
+八大第一台(備用),http://198.16.106.58:8278/badaen ... 5c51dd3de7d3e214287
+八大第一台,http://198.16.106.58:8278/badafi ... f949a043d652fa3e164
+八大綜合台,http://198.16.106.58:8278/badazh ... ea7dce98cd17301667d
+動物星球頻道,http://198.16.106.58:8278/animal ... 2c67964feecfbc4b702
+博斯網球,http://198.16.106.58:8278/bosite ... 29886aa772f2e149edb
+博斯運動I,http://198.16.106.58:8278/bosisp ... e26c87bfc85a02d8052
+博斯運動II,http://198.16.106.58:8278/bosisp ... f2b069d574293809283
+博斯高球I,http://198.16.106.58:8278/bosigo ... 409db94a692921fa08b
+博斯高球II,http://198.16.106.58:8278/golf_t ... 9f9097b20396b9b4917
+國家地理國際頻道,http://198.16.106.58:8278/natgeo ... 1358251546e6f03da3d
+國家地理悠人頻道,http://198.16.106.58:8278/natgeo ... 308c5c9a9d2e8e2c556
+國家地理野生頻道,http://198.16.106.58:8278/natgeo ... 64c112c79b239c3f5e8
+愛爾達影劇台,http://198.16.106.58:8278/eltadr ... 4b5397af9d19e0c39a3
+愛爾達綜合台,http://198.16.106.58:8278/eltazh ... f35b63a332140e2514c
+愛爾達體育1台,http://198.16.106.58:8278/eltasp ... 7f0737ca0d396d43745
+愛爾達體育2台,http://198.16.106.58:8278/eltayu ... 15482d3f38619904bdc
+愛爾達體育3台,http://198.16.106.58:8278/eltasp ... 59eed8dd2bf22218b7f
+探索亞洲台,http://198.16.106.58:8278/discov ... 443dbb256dc465b4715
+探索動力台,http://198.16.106.58:8278/discov ... d6b15a90b7aa43b3279
+探索家庭台,http://198.16.106.58:8278/discov ... d8e160a34dd40b4f4bd
+探索科學台,http://198.16.106.58:8278/discov ... 45ec55711287ad6b21b
+探索頻道,http://198.16.106.58:8278/ba86fc ... 8bd1e3f62954629ed4f
+星空衛視台,http://198.16.106.58:8278/xingko ... 1029ad1b93ac62830aa
+星衛娛樂台,http://198.16.106.58:8278/staren ... a608dc64c6b66e12833
+星衛電影台,http://198.16.106.58:8278/xingwe ... 9ce7b4f8f69d23d7ceb
+時尚頻道,http://198.16.106.58:8278/fashio ... f6c1fad8812deda83d1
+曼迪日本台,http://198.16.106.58:8278/mandij ... e38fc45ee70e42633a8
+東森幼幼台,http://198.16.106.58:8278/yoyo_t ... 2ab978ee0791843501d
+東森洋片台,http://198.16.106.58:8278/ettvwe ... 25ea820bee1d69e545f
+東森綜合台,http://198.16.106.58:8278/ettvzh ... c92ce4b5d7461988f3f
+東森財經台,http://198.16.106.58:8278/ettvca ... 01fdb3da968dfee5a54
+東森電影台,http://198.16.106.58:8278/ettvmo ... 78931b566300e618313
+滾動力,http://198.16.106.58:8278/e_twn/ ... fd008b91852975a2c18
+緯來戲劇台,http://198.16.106.58:8278/videol ... a30917cb7df95d22aa8
+緯來精采台,http://198.16.106.58:8278/videol ... 810f126c7167897858a
+緯來綜合台,http://198.16.106.58:8278/videol ... b4a886b39fc8f7fc653
+緯來電影台,http://198.16.106.58:8278/videol ... 71081ef9b3a85f2886c
+緯來體育台,http://198.16.106.58:8278/videol ... 4d611ae4903c24be121
+罪案偵輯台,http://198.16.106.58:8278/ci_twn ... 40621e2b023bf017892
+美食星球台,http://198.16.106.58:8278/chines ... de55a524a983d08b532
+華藝戲劇台,http://198.16.106.58:8278/hongji ... 6fc6058b635b56427e3
+迪士尼卡通,http://198.16.106.58:8278/disney ... 2a00ac9b0bea4776d28
+采昌影劇台,http://198.16.106.58:8278/528222 ... 46fd5c4d57d4d0dbe02
+靖天卡通台,http://198.16.106.58:8278/jingti ... fbe1d1d9662e9ac600c
+靖天戲劇台,http://198.16.106.58:8278/jingya ... 97829cd12bf1679deb2
+靖天育樂台,http://198.16.106.58:8278/2d0eea ... 16e7db9b79ae23f0659
+靖天電影台,http://198.16.106.58:8278/jingti ... d5afd3f8151d2f3dd2d
+韓國tVN,http://198.16.106.58:8278/tvn_tw ... f93268e2d1d30e3d62a
+龍華動畫台,http://198.16.106.58:8278/lunghu ... 4d077d6c782c4b9eba2
+龍華影劇台,http://198.16.106.58:8278/lunghu ... 10a11f4d305a804136a
+龍華戲劇台,http://198.16.106.58:8278/lunghu ... 2d63b97c0fe787007cb
+龍華洋片台,http://198.16.106.58:8278/lunghu ... 4ea4705c721b752d4db
+龍華經典台,http://198.16.106.58:8278/9d3210 ... 20083d8278206dad204
+
 CCTV,#genre#
 CCTV-1,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-2,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -24,21 +133,7 @@ CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CCTV-1,http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8
-CCTV-2,http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8
-CCTV-3,http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
-CCTV-4,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-CCTV-5,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-CCTV-6,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
-CCTV-7,http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
-CCTV-8,http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
-CCTV-9,http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
-CCTV-10,http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
-CCTV-11,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
-CCTV-12,http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
-CCTV-13 ,http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
-CCTV-14,http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
-CCTV-15,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+
 卫视,#genre#
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
