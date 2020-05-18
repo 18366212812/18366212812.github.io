@@ -1,3 +1,10 @@
+台湾,#genre#
+中天综合,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天新闻,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+东森新闻,http://live3.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+中视综合,http://live3.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+八大综合,http://live3.ocnttv.com:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+
 淄博移动,#genre#
 CCTV1,http://120.221.5.113:8089/PLTV/88888888/224/3221225919/index.m3u8
 CCTV2,http://120.221.5.113:8089/PLTV/88888888/224/3221225895/index.m3u8
