@@ -1,4 +1,5 @@
 台湾,#genre#
+美国中文,http://jpts.sinovision.net/livestream2.m3u8
 中天综合,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天娱乐,http://live3.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
