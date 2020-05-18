@@ -1,6 +1,6 @@
 台湾,#genre#
 中天新闻,http://pull-hls-l1-hs.pstatp.com/stage/uuu10059ppp/playlist.m3u8
-TVBS新闻.http://pull-hls-l1-hs.pstatp.com/stage/uuu10066ppp/playlist.m3u8
+TVBS新闻,http://pull-hls-l1-hs.pstatp.com/stage/uuu10066ppp/playlist.m3u8
 台视新闻,http://72f424b4e569c8dccea414b462d21311.cloud.xstrive.com:9502/hlsram/live1/index.m3u8?token=b80f0cf6a34c401ce9e6df1b39a5d475&t=1587740513&pass=-1
 
 美国中文,http://jpts.sinovision.net/livestream2.m3u8
