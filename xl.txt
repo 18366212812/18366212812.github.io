@@ -1,5 +1,11 @@
 CHC,#genre#
-
+CCTV 风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+CCTV 风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+CCTV 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+CCTV 世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+CCTV 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
