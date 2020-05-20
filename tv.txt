@@ -65,16 +65,16 @@ CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 
 台湾,#genre#
-天映频道,http://bddb.228888888.xyz:8081/live/ws109.m3u8
-天映经典,http://bddb.228888888.xyz:8081/live/ws110.m3u8
-卫视电影台,http://bddb.228888888.xyz:8081/live/ws101.m3u8
-动物星球,http://bddb.228888888.xyz:8081/live/ws151.m3u8
-緯來體育,http://bddb.228888888.xyz:8081/live/ws138.m3u8
 中天新闻,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
 东森新闻,http://ddbb.228888888.xyz:8081/live/tw106.m3u8
 三立新闻,http://ddbb.228888888.xyz:8081/live/tw117.m3u8
 民視新聞,http://ddbb.228888888.xyz:8081/live/tw105.m3u8
 台視新聞,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
+天映频道,http://bddb.228888888.xyz:8081/live/ws109.m3u8
+天映经典,http://bddb.228888888.xyz:8081/live/ws110.m3u8
+卫视电影台,http://bddb.228888888.xyz:8081/live/ws101.m3u8
+动物星球,http://bddb.228888888.xyz:8081/live/ws151.m3u8
+緯來體育,http://bddb.228888888.xyz:8081/live/ws138.m3u8
 華視新聞,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
 TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
 中視新聞,http://ddbb.228888888.xyz:8081/live/tw107.m3u8
