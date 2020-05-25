@@ -1,3 +1,11 @@
+台湾新,#genre#
+中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
+中天新闻,http://111.13.111.192/211.75.9.37:20010/20011
+新闻年代,http://111.13.111.192/211.75.9.37:20050/20055
+无线新闻台,http://ldtv.5ay.xyz/daili/tvb.php?id=inews?is_hd
+综合娱乐台,http://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+有线新闻,http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+
 台湾FQ,#genre#
 三立新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
