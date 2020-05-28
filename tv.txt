@@ -23,7 +23,7 @@ CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江1卫视,http://ali.m.l.cztv.com/channels/lantian/channel13/540p.m3u8
+浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
 浙江3经济,http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8
@@ -54,7 +54,6 @@ CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
