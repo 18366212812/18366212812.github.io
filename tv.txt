@@ -136,7 +136,7 @@ CCTV景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 
-电影点播,#genre#
+电影1,#genre#
 少林寺十八铜人,http://cdn1.gzzechao.com/20190209/ss7oXgrb/2600kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 南北狮王争霸,http://cdn1.gzzechao.com/20180929/T184FNQe/2010kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 方世玉 千面修罗,http://cdn1.gzzechao.com/20190906/oD88s4Zg/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
@@ -205,7 +205,7 @@ CCTV景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
 
-电影,#genre#
+电影2,#genre#
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
