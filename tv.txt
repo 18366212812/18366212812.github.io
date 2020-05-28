@@ -137,8 +137,7 @@ CCTV景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 
 电影点播,#genre#
-少林寺十八同人,http://cdn1.gzzechao.com/20190209/ss7oXgrb/2600kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
-独臂拳王,http://videotiantian.gslawyerunion.com/20181124/SiIQovTK/2901kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
+少林寺十八铜人,http://cdn1.gzzechao.com/20190209/ss7oXgrb/2600kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 南北狮王争霸,http://cdn1.gzzechao.com/20180929/T184FNQe/2010kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 方世玉 千面修罗,http://cdn1.gzzechao.com/20190906/oD88s4Zg/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 北少林,http://cdn1.gzzechao.com/20190210/WoPySQ2g/2078kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421#http://cdn1.gzzechao.com/20190210/WoPySQ2g/2078kb/hls/index.m3u8?wsSecret=1ede349e12165f50586ae7689421b886&wsTime=1581079333776
@@ -146,6 +145,7 @@ CCTV景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 万人斩,http://cdn1.gzzechao.com/20190512/qD58WHxI/4475kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 南少林与北少林,http://cdn1.gzzechao.com/20190206/2imYsoNU/873kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 侠女,http://videotiantian.gslawyerunion.com/20190613/vvHC0zio/2700kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
+独臂拳王,http://videotiantian.gslawyerunion.com/20181124/SiIQovTK/2901kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 醉拳,http://jiasu-a4.jiankangkuaile99.com/a4/20190702/%E9%86%89%E6%8B%B3/2000kb/hls/index.m3u8
 黄飞鸿之王者无敌,http://jiasu-a1.jiankangkuaile99.com/a1/20190730/%E9%BB%84%E9%A3%9E%E9%B8%BF%E4%B9%8B%E7%8E%8B%E8%80%85%E6%97%A0%E6%95%8C/2000kb/hls/index.m3u8
 新方世玉,http://jiasu-a5.jiankangkuaile99.com/a5/20191117/%E6%96%B0%E6%96%B9%E4%B8%96%E7%8E%89%E4%B9%8B%E5%86%B3%E6%88%98%E5%8D%B1%E5%9F%8E/2000kb/hls/index.m3u8
