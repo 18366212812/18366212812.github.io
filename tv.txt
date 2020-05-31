@@ -67,8 +67,8 @@ CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
-新闻年代,http://111.13.111.192/211.75.9.37:20050/20055
+台湾 中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
+台湾 年代新闻,http://111.13.111.192/211.75.9.37:20050/20055
 景点直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
