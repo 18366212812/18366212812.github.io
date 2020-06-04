@@ -68,7 +68,10 @@ CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 香港,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 CCTV日本大富,vjms://58.215.133.154:8500:3502/live/cid=170
 CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
