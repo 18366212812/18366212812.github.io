@@ -141,18 +141,14 @@ AXN台,http://111.13.111.192/211.75.9.37:20020/20029
 
 
 日照,#genre#
-日照新闻1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
+日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教生活2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
-日照4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
+日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
 黄岛生活2,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
-武汉1新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-雷神山1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
-雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-雷神山,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 高密-1,http://livealone302.iqilu.com/gaomi/gaomi_tv01/playlist.m3u8
 微山1,http://jsylivealone302.iqilu.com/live/weishan_tv02/index.m3u8
 微山2,http://jsylivealone302.iqilu.com/live/weishan_tv01/index.m3u8
