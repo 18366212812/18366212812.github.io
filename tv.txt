@@ -145,6 +145,17 @@ AXN台,http://111.13.111.192/211.75.9.37:20020/20029
 日照科教生活2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
 日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
+江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
+江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
+吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
+江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
+江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
+江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
+江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
+京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
+南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
+南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
+南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
