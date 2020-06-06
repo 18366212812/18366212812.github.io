@@ -156,6 +156,9 @@ AXN台,http://111.13.111.192/211.75.9.37:20020/20029
 南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
 南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
 南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
+北京体育,http://112.17.40.145/PLTV/88888888/224/3221226746/index.m3u8
+杭州1,http://112.17.40.145/PLTV/88888888/224/3221226170/index.m3u8
+嘉兴新闻,http://112.17.40.145/PLTV/88888888/224/3221226358/index.m3u8
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
