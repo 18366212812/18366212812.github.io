@@ -1,0 +1,5 @@
+NEW,#genre#
+CETV1,http://csbl.centv.cn/live/1581050671.m3u8?auth_key=1591886725-0-0-3df99405cfe80d7b917eb40de3a174d3
+CETV2,http://csbl.centv.cn/live/1581050634.m3u8?auth_key=1591886765-0-0-1d7a450d1274c9581b48e61426d07ada
+CETV3,http://csbl.centv.cn/live/1581050590.m3u8?auth_key=1591886811-0-0-c56a633cce5dd95d2ae412da918d2ba9
+CETV4,http://csbl.centv.cn/live/1581002128.m3u8?auth_key=1591886844-0-0-94488143a9d6c6f2db3ca528cfec436d
