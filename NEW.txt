@@ -1,4 +1,9 @@
 NEW,#genre#
+
+临沂综合,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
+临沂公共,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
+临沂农科,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1244.m3u8
+
 兰州综合,http://stream.lztv.tv/xwzh/hd/live.m3u8?_upt=7fb4cfa21591979850
 兰州生活经济,http://stream.lztv.tv/shjj/sd/live.m3u8?_upt=7efabb4c1591979887
 兰州综艺体育,http://stream.lztv.tv/zyty/sd/live.m3u8?_upt=73466c241591979922
@@ -32,6 +37,10 @@ CETV4,http://csbl.centv.cn/live/1581002128.m3u8?auth_key=1591886844-0-0-94488143
 内蒙古新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
 内蒙古文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
 西藏卫视,http://stream.xzitv.cn/3/sd/live.m3u8?_upt=dc911c8a1591893459
+
+
+
+
 
 
 
