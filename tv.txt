@@ -65,6 +65,7 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
@@ -170,6 +171,10 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
 台湾,#genre#
+中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+
 东森新闻台,http://180.178.37.174:8006/lbtv/live/kwzq1rse/94zf0c2v/index.m3u8#http://111.13.111.192/211.75.9.37:20060/20066
 三立新闻台,http://111.13.111.192/211.75.9.37:20010/20015
 三立都会台,http://111.13.111.192/211.75.9.37:20040/20042
