@@ -4,16 +4,15 @@ NEW,#genre#
 临沂公共,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
 临沂农科,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1244.m3u8
 
-兰州综合,http://stream.lztv.tv/xwzh/hd/live.m3u8?_upt=7fb4cfa21591979850
-兰州生活经济,http://stream.lztv.tv/shjj/sd/live.m3u8?_upt=7efabb4c1591979887
-兰州综艺体育,http://stream.lztv.tv/zyty/sd/live.m3u8?_upt=73466c241591979922
-兰州公共,http://stream.lztv.tv/ggpd/sd/live.m3u8?_upt=4fd4e3291591979955
+兰州综合,http://stream.lztv.tv/xwzh/hd/live.m3u8
+兰州生活经济,http://stream.lztv.tv/shjj/sd/live.m3u8
+兰州综艺体育,http://stream.lztv.tv/zyty/sd/live.m3u8
+兰州公共,http://stream.lztv.tv/ggpd/sd/live.m3u8
 
-
-CETV1,http://csbl.centv.cn/live/1581050671.m3u8?auth_key=1591886725-0-0-3df99405cfe80d7b917eb40de3a174d3
-CETV2,http://csbl.centv.cn/live/1581050634.m3u8?auth_key=1591886765-0-0-1d7a450d1274c9581b48e61426d07ada
-CETV3,http://csbl.centv.cn/live/1581050590.m3u8?auth_key=1591886811-0-0-c56a633cce5dd95d2ae412da918d2ba9
-CETV4,http://csbl.centv.cn/live/1581002128.m3u8?auth_key=1591886844-0-0-94488143a9d6c6f2db3ca528cfec436d
+CETV1,http://csbl.centv.cn/live/1581050671.m3u8
+CETV2,http://csbl.centv.cn/live/1581050634.m3u8
+CETV3,http://csbl.centv.cn/live/1581050590.m3u8
+CETV4,http://csbl.centv.cn/live/1581002128.m3u8
 
 新疆卫视1,http://livehyw.chinamcache.com/xjtvs/zb0001.flv?auth_key=1591889023-0-0-bd3abbd674660ab647d82fef5c907965
 新疆综艺4,http://livehyw.chinamcache.com/xjtvs/zb0004.flv?auth_key=1591889065-0-0-d37980948e6539b83cc5039d68712167
