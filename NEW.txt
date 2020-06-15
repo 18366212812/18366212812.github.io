@@ -14,10 +14,10 @@ CETV2,http://csbl.centv.cn/live/1581050634.m3u8
 CETV3,http://csbl.centv.cn/live/1581050590.m3u8
 CETV4,http://csbl.centv.cn/live/1581002128.m3u8
 
-新疆卫视1,http://livehyw.chinamcache.com/xjtvs/zb0001.flv?auth_key=1591889023-0-0-bd3abbd674660ab647d82fef5c907965
-新疆综艺4,http://livehyw.chinamcache.com/xjtvs/zb0004.flv?auth_key=1591889065-0-0-d37980948e6539b83cc5039d68712167
-新疆体育10,http://livehyw.chinamcache.com/xjtvs/zb0010.flv?auth_key=1591889109-0-0-aab662e5be693ef1ba5dc26b9d6db354
-新疆信息11,http://livehyw.chinamcache.com/xjtvs/zb0011.flv?auth_key=1591889142-0-0-291fdc11cf5b3c42e04626c683a79a92
+新疆卫视1,http://livehyw.chinamcache.com/xjtvs/zb0001.flv
+新疆综艺4,http://livehyw.chinamcache.com/xjtvs/zb0004.flv
+新疆体育10,http://livehyw.chinamcache.com/xjtvs/zb0010.flv
+新疆信息11,http://livehyw.chinamcache.com/xjtvs/zb0011.flv
 宁夏卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=1fb0d1891592029234
 宁夏公共,http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=c9b5b1101592029276
 宁夏经济,http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=5da5a4811592029312
