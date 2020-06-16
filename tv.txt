@@ -24,13 +24,6 @@ CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=
 CCTV-14 少儿,http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-CCTV风云音乐,http://itv.ahcme.edu.cn/hls/fyyytv.m3u8
-CCTV怀旧剧场,http://itv.ahcme.edu.cn/hls/hjjctv.m3u8#http://itv.ahcme.edu.cn/hls/hls94.m3u8
-CCTV世界地理,http://itv.ahcme.edu.cn/hls/sjdltv.m3u8
-CCTV风云足球,http://itv.ahcme.edu.cn/hls/fyzqtv.m3u8#http://itv.ahcme.edu.cn/hls/hls20.m3u8
-CCTV兵器科技,http://itv.ahcme.edu.cn/hls/gfjstv.m3u8
-CCTV女性时尚,http://itv.ahcme.edu.cn/hls/hls44.m3u8
-CCTV老故事,http://itv.ahcme.edu.cn/hls/hls113.m3u8
 IPTV收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
 IPTV魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
 IPTV热播剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225918/10000100000000060000000000218878_0.smil
@@ -68,19 +61,19 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-香港 台湾,#genre#
+港澳台,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 台湾 三立新闻,http://6688.tv0668.com:10080/vhls/88888889/88888889_live.m3u8
 台湾 TVBS新闻,http://6688.tv0668.com:10080/vhls/88888888/88888888_live.m3u8
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -142,24 +135,17 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 山东公共,http://120.221.5.113:8089/PLTV/88888888/224/3221225962/index.m3u8
 山东体育,http://120.221.5.113:8089/PLTV/88888888/224/3221226003/index.m3u8
 山东国际,http://120.221.5.113:8089/PLTV/88888888/224/3221226047/index.m3u8
-山东少儿,http://120.221.5.113:8089/PLTV/88888888/224/3221226001/index.m3u8
 
-山东齐鲁,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225807/10000100000000060000000000215674_0.smil
-山东影视,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225808/10000100000000060000000000215675_0.smil
-山东综艺,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225810/10000100000000060000000000215680_0.smil
-山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
-
+古装剧场,http://120.221.5.111:8089/PLTV/88888888/224/3221226057/index.m3u8
+武术频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225996/index.m3u8
 海看演艺,http://120.221.5.113:8089/PLTV/88888888/224/3221226027/index.m3u8
 海看教育,http://120.221.5.113:8089/PLTV/88888888/224/3221225852/index.m3u8
 海看健康,http://120.221.5.113:8089/PLTV/88888888/224/3221226039/index.m3u8
 古装剧场,http://120.221.5.113:8089/PLTV/88888888/224/3221226057/index.m3u8
 音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
 家庭影院,http://120.221.5.113:8089/PLTV/88888888/224/3221226055/index.m3u8
-古装剧场,http://120.221.5.111:8089/PLTV/88888888/224/3221226057/index.m3u8
-光影频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225854/index.m3u8
 喜剧影院,http://120.221.5.113:8089/PLTV/88888888/224/3221225927/index.m3u8
-光影频道,http://120.221.5.177:8089/PLTV/88888888/224/3221225854/index.m3u8
-武术频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225996/index.m3u8
+光影频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225854/index.m3u8
 四海钓鱼,http://120.221.5.113:8089/PLTV/88888888/224/3221225976/index.m3u8
 淄博都市,http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
 高青综合,http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
@@ -206,6 +192,11 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 深圳卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221226043/index.m3u8
 新疆卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221226073/index.m3u8
 湖南卫视,http://120.221.5.101:8089/PLTV/88888888/224/3221225824/index.m3u8
+山东少儿,http://120.221.5.113:8089/PLTV/88888888/224/3221226001/index.m3u8
+山东齐鲁,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225807/10000100000000060000000000215674_0.smil
+山东影视,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225808/10000100000000060000000000215675_0.smil
+山东综艺,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225810/10000100000000060000000000215680_0.smil
+山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
 
 电影,#genre#
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
