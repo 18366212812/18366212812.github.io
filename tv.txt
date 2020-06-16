@@ -25,10 +25,8 @@ CCTV-14 少儿,http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 CCTV风云音乐,http://itv.ahcme.edu.cn/hls/fyyytv.m3u8
-CCTV风云剧场,http://itv.ahcme.edu.cn/hls/fyjctv.m3u8
 CCTV怀旧剧场,http://itv.ahcme.edu.cn/hls/hjjctv.m3u8#http://itv.ahcme.edu.cn/hls/hls94.m3u8
 CCTV世界地理,http://itv.ahcme.edu.cn/hls/sjdltv.m3u8
-CCTV第一剧场,http://itv.ahcme.edu.cn/hls/dyjctv.m3u8
 CCTV风云足球,http://itv.ahcme.edu.cn/hls/fyzqtv.m3u8#http://itv.ahcme.edu.cn/hls/hls20.m3u8
 CCTV兵器科技,http://itv.ahcme.edu.cn/hls/gfjstv.m3u8
 CCTV女性时尚,http://itv.ahcme.edu.cn/hls/hls44.m3u8
