@@ -68,7 +68,6 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 淄博都市,http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
 高青综合,http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
 
-
 CCTV,#genre#
 CCTV-1  综合,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -132,10 +131,12 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-香港,#genre#
+香港 台湾,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+台湾 三立新闻,http://6688.tv0668.com:10080/vhls/88888889/88888889_live.m3u8
+台湾 TVBS新闻,http://6688.tv0668.com:10080/vhls/88888888/88888888_live.m3u8
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
@@ -240,18 +241,3 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
-
-台湾,#genre#
-中天新闻,http://111.13.111.192/192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-东森新闻,http://111.13.111.192/192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-年代新闻,http://111.13.111.192/192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-中视综合,http://111.13.111.192/192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中天综合,http://111.13.111.192/104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://111.13.111.192/192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-八大综合,http://111.13.111.192/192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-龙翔时代电影,http://111.13.111.192/192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-东森电影,http://111.13.111.192/192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-动物星球,http://111.13.111.192/192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-TVB星河,http://111.13.111.192/104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-凤凰卫视资讯,http://111.13.111.192/104.250.154.42:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
-凤凰卫视中文,http://111.13.111.192/104.250.154.42:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
