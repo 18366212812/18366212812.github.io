@@ -65,9 +65,8 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
-台湾 三立新闻,http://6688.tv0668.com:10080/vhls/88888889/88888889_live.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-台湾 TVBS新闻,http://6688.tv0668.com:10080/vhls/88888888/88888888_live.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-台湾 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+台湾 三立新闻,http://6688.tv0668.com:10080/vhls/88888889/88888889_live.m3u8
+台湾 TVBS新闻,http://6688.tv0668.com:10080/vhls/88888888/88888888_live.m3u8
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
