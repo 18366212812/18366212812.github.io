@@ -1,4 +1,5 @@
 NEW,#genre#
+凤凰资讯,https://www.fanmingming.cn/hls/fhzx.m3u8
 
 临沂综合,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 临沂公共,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
