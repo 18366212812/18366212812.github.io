@@ -63,10 +63,7 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-港澳台,#genre#
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+台湾,#genre#
 华视,http://hdtv.ub1818.com/ublive/index_15.m3u8
 民视,http://hdtv.ub1818.com/ublive/index_4.m3u8
 民视台湾,http://hdtv.ub1818.com/ublive/index_3.m3u8
@@ -105,7 +102,11 @@ AXN,vjms://58.215.133.189:8500:3502/live/cid=2
 发现科学,vjms://58.215.133.189:8500:3502/live/cid=457
 TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
 
-公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
+
+香港澳门,#genre#
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
