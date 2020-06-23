@@ -63,6 +63,26 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+香港澳门,#genre#
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
+青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+
 台湾,#genre#
 华视,http://hdtv.ub1818.com/ublive/index_15.m3u8
 民视,http://hdtv.ub1818.com/ublive/index_4.m3u8
@@ -102,28 +122,6 @@ AXN,vjms://58.215.133.189:8500:3502/live/cid=2
 发现科学,vjms://58.215.133.189:8500:3502/live/cid=457
 TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
 
-
-香港澳门,#genre#
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
-青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-
-
 日照,#genre#
 日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
@@ -134,6 +132,7 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 北京体育,http://112.17.40.145/PLTV/88888888/224/3221226746/index.m3u8
 江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
 吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
 杭州综合1,http://112.17.40.145/PLTV/88888888/224/3221226170/index.m3u8
 浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
@@ -167,13 +166,7 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
 黄岛生活2,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 
-上海 山东,#genre#
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
-上海新闻综合,http://nas.330421.cn:8000/iptv/kankan/?id=xwzh
-上海纪实人文,http://nas.330421.cn:8000/iptv/kankan/?id=jspd
-上海都市频道,http://nas.330421.cn:8000/iptv/kankan/?id=dspd
-上海外语频道,http://nas.330421.cn:8000/iptv/kankan/?id=wypd
-上海第一财经,http://nas.330421.cn:8000/iptv/kankan/?id=dycj
+山东,#genre#
 山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
 山东生活,http://120.221.5.113:8089/PLTV/88888888/224/3221226040/index.m3u8
 山东综艺,http://120.221.5.113:8089/PLTV/88888888/224/3221226101/index.m3u8
