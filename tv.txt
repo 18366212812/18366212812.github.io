@@ -130,6 +130,7 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 北京体育,http://112.17.40.145/PLTV/88888888/224/3221226746/index.m3u8
 江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
 吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
@@ -166,7 +167,13 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
 黄岛生活2,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 
-山东,#genre#
+上海 山东,#genre#
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
+上海新闻综合,http://nas.330421.cn:8000/iptv/kankan/?id=xwzh
+上海纪实人文,http://nas.330421.cn:8000/iptv/kankan/?id=jspd
+上海都市频道,http://nas.330421.cn:8000/iptv/kankan/?id=dspd
+上海外语频道,http://nas.330421.cn:8000/iptv/kankan/?id=wypd
+上海第一财经,http://nas.330421.cn:8000/iptv/kankan/?id=dycj
 山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
 山东生活,http://120.221.5.113:8089/PLTV/88888888/224/3221226040/index.m3u8
 山东综艺,http://120.221.5.113:8089/PLTV/88888888/224/3221226101/index.m3u8
