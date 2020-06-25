@@ -230,42 +230,4 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
 
-台湾,#genre#
-华视,http://hdtv.ub1818.com/ublive/index_15.m3u8
-民视,http://hdtv.ub1818.com/ublive/index_4.m3u8
-民视台湾,http://hdtv.ub1818.com/ublive/index_3.m3u8
-民视第一,http://hdtv.ub1818.com/ublive/index_2.m3u8
-TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
-中視箐彩,http://hdtv.ub1818.com/ublive/index_7.m3u8
-非凡新闻,http://hdtv.ub1818.com/ublive/index_8.m3u8
-中視新聞,http://hdtv.ub1818.com/ublive/index_9.m3u8
-華視新聞,http://hdtv.ub1818.com/ublive/index_10.m3u8
-FTV综艺,http://hdtv.ub1818.com/ublive/index_11.m3u8
-综艺,http://hdtv.ub1818.com/ublive/index_12.m3u8
-猪哥亮综艺,http://hdtv.ub1818.com/ublive/index_14.m3u8
-八大精彩台,http://hdtv.ub1818.com/ublive/index_1.m3u8
-公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
-靖天综合,http://hdtv.ub1818.com/ublive/index_19.m3u8
-靖天咨询,http://hdtv.ub1818.com/ublive/index_31.m3u8
-靖天欢乐,http://hdtv.ub1818.com/ublive/index_32.m3u8
-靖天戏剧,http://hdtv.ub1818.com/ublive/index_33.m3u8
-靖洋卡通,http://hdtv.ub1818.com/ublive/index_18.m3u8
-靖天卡通,http://hdtv.ub1818.com/ublive/index_21.m3u8
-靖天戏剧,http://hdtv.ub1818.com/ublive/index_22.m3u8
-靖天电影,http://hdtv.ub1818.com/ublive/index_23.m3u8
-靖天育乐,http://hdtv.ub1818.com/ublive/index_24.m3u8
-靖天国际,http://hdtv.ub1818.com/ublive/index_25.m3u8
-靖天映画,http://hdtv.ub1818.com/ublive/index_26.m3u8
-影迷电影,http://hdtv.ub1818.com/ublive/index_28.m3u8
-采昌,http://hdtv.ub1818.com/ublive/index_29.m3u8
-amc电影,http://hdtv.ub1818.com/ublive/index_30.m3u8
-台视财*,http://hdtv.ub1818.com/ublive/index_38.m3u8
-卡通,http://hdtv.ub1818.com/ublive/index_17.m3u8
-原住民台,http://bcovlive-a.akamaihd.net/8 ... le_0/chunklist.m3u8
-AXN,vjms://58.215.133.189:8500:3502/live/cid=2
-国家地理-HD,vjms://58.215.133.189:8500:3502/live/cid=115
-探索频道-HD,vjms://58.215.133.189:8500:3502/live/cid=440
-动物星球,vjms://58.215.133.189:8500:3502/live/cid=3
-发现科学,vjms://58.215.133.189:8500:3502/live/cid=457
-TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
 
