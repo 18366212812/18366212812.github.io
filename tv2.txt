@@ -1,6 +1,7 @@
 CCTV,#genre#
 CCTV-1  综合,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 CCTV-3  综艺,http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-3  相声小品,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225926/10000100000000060000000000218847_0.smil
 CCTV-4  国际,http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -15,13 +16,16 @@ IPTV-12 法治,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225931/10000100000
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+
+连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
+
+CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
 IPTV魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
 IPTV热播剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225918/10000100000000060000000000218878_0.smil
 IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
 
 卫视,#genre#
-山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -77,10 +81,8 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 
 
 日照,#genre#
-日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
-连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 北京体育,http://112.17.40.145/PLTV/88888888/224/3221226746/index.m3u8
 江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
