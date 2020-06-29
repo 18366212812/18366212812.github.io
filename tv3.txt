@@ -1128,3 +1128,4 @@ ZZTV-1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225867/index.m3u8
 珠海-1,http://dslive.grtn.cn/zhzh/sd/live.m3u8
 庄浪综合频道,rtmp://118.182.120.59/live/stream4
 秭归新闻综合,rtmp://zigui.live.cjyun.org/video/s10111-ZGTV1
+张家口1,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
