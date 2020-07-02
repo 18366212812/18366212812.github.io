@@ -202,14 +202,14 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
 
 电影,#genre#
-CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 电  影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 黄飞鸿之王者无敌,http://jiasu-a1.jiankangkuaile99.com/a1/20190730/%E9%BB%84%E9%A3%9E%E9%B8%BF%E4%B9%8B%E7%8E%8B%E8%80%85%E6%97%A0%E6%95%8C/2000kb/hls/index.m3u8
