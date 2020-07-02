@@ -98,14 +98,6 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
 杭州综合1,http://112.17.40.145/PLTV/88888888/224/3221226170/index.m3u8
-浙江9国际,http://ali.m.l.cztv.com/channels/lantian/channel10/540p.m3u8
-浙江2钱江,http://ali.m.l.cztv.com/channels/lantian/channel02/540p.m3u8
-浙江3经济,http://ali.m.l.cztv.com/channels/lantian/channel03/540p.m3u8
-浙江4科教,http://ali.m.l.cztv.com/channels/lantian/channel04/540p.m3u8
-浙江5影视,http://ali.m.l.cztv.com/channels/lantian/channel05/540p.m3u8
-浙江6台,http://ali.m.l.cztv.com/channels/lantian/channel06/540p.m3u8
-浙江7公共,http://ali.m.l.cztv.com/channels/lantian/channel07/540p.m3u8
-浙江8少儿,http://ali.m.l.cztv.com/channels/lantian/channel08/540p.m3u8
 江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
 江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
 江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
