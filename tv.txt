@@ -233,6 +233,7 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
 
 台湾,#genre#
+中视,http://hdtv.ub1818.com/ublive/index_40.m3u8
 八大精彩台,http://hdtv.ub1818.com/ublive/index_1.m3u8
 民视第一台,http://hdtv.ub1818.com/ublive/index_2.m3u8
 民视台湾台,http://hdtv.ub1818.com/ublive/index_3.m3u8
