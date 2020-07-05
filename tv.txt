@@ -26,12 +26,11 @@ CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=
 CCTV-14 少儿,http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-CCTV-4K 超高清,http://101.227.221.27/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
-IPTV收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
-IPTV魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
-IPTV热播剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225918/10000100000000060000000000218878_0.smil
-IPTV少儿动画,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225920/10000100000000060000000000218874_0.smil
-IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
+IPTV 收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
+IPTV 魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
+IPTV 热播剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225918/10000100000000060000000000218878_0.smil
+IPTV 少儿动画,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225920/10000100000000060000000000218874_0.smil
+IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
 
 卫视,#genre#
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -64,27 +63,72 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-香港澳门,#genre#
+港澳台,#genre#
 凤凰资讯,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
 凤凰中文,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
-青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
+中视新闻HD,http://hdtv.ub1818.com/ublive/index_9.m3u8
+华视新闻资讯HD,http://hdtv.ub1818.com/ublive/index_10.m3u8
+非凡新闻HD,http://hdtv.ub1818.com/ublive/index_8.m3u8
+中视,http://hdtv.ub1818.com/ublive/index_40.m3u8
+八大精彩台,http://hdtv.ub1818.com/ublive/index_1.m3u8
+民视第一台,http://hdtv.ub1818.com/ublive/index_2.m3u8
+民视台湾台,http://hdtv.ub1818.com/ublive/index_3.m3u8
+民视HD,http://hdtv.ub1818.com/ublive/index_4.m3u8
+TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
+FTV综艺,http://hdtv.ub1818.com/ublive/index_11.m3u8
+八大综合台,http://hdtv.ub1818.com/ublive/index_12.m3u8
+ELTA娱乐,http://hdtv.ub1818.com/ublive/index_13.m3u8
+猪哥亮社,http://hdtv.ub1818.com/ublive/index_14.m3u8
+华视CTS,http://hdtv.ub1818.com/ublive/index_15.m3u8
+公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
+nickjr动漫,http://hdtv.ub1818.com/ublive/index_17.m3u8
+靖洋卡通台,http://hdtv.ub1818.com/ublive/index_18.m3u8
+靖天综合台,http://hdtv.ub1818.com/ublive/index_19.m3u8
+靖天日本台,http://hdtv.ub1818.com/ublive/index_20.m3u8
+靖天卡通台,http://hdtv.ub1818.com/ublive/index_21.m3u8
+靖天戏剧台,http://hdtv.ub1818.com/ublive/index_22.m3u8
+靖天电影台,http://hdtv.ub1818.com/ublive/index_23.m3u8
+靖天音乐台,http://hdtv.ub1818.com/ublive/index_24.m3u8
+靖天国际台,http://hdtv.ub1818.com/ublive/index_25.m3u8
+靖天映画,http://hdtv.ub1818.com/ublive/index_26.m3u8
+台湾采昌,http://hdtv.ub1818.com/ublive/index_27.m3u8
+台湾影迷电影,http://hdtv.ub1818.com/ublive/index_28.m3u8
+台湾CNEX,http://hdtv.ub1818.com/ublive/index_29.m3u8
+台湾AMC电影,http://hdtv.ub1818.com/ublive/index_30.m3u8
+靖天资讯台,http://hdtv.ub1818.com/ublive/index_31.m3u8
+靖天欢乐台,http://hdtv.ub1818.com/ublive/index_32.m3u8
+靖洋戏剧台,http://hdtv.ub1818.com/ublive/index_33.m3u8
+台湾CLASSICA音乐,http://hdtv.ub1818.com/ublive/index_34.m3u8
+韩国娱乐台,http://hdtv.ub1818.com/ublive/index_35.m3u8
+旅游频道,http://hdtv.ub1818.com/ublive/index_36.m3u8
+户外频道,http://hdtv.ub1818.com/ublive/index_37.m3u8
+台视财经HD,http://hdtv.ub1818.com/ublive/index_38.m3u8
+TRACE体育,http://hdtv.ub1818.com/ublive/index_39.m3u8
+中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 日照,#genre#
@@ -125,55 +169,6 @@ CCTV景区直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?conte
 临沂公共,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
 临沂农科,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1244.m3u8
 临沂综合,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
-
-台湾,#genre#
-中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-中视,http://hdtv.ub1818.com/ublive/index_40.m3u8
-八大精彩台,http://hdtv.ub1818.com/ublive/index_1.m3u8
-民视第一台,http://hdtv.ub1818.com/ublive/index_2.m3u8
-民视台湾台,http://hdtv.ub1818.com/ublive/index_3.m3u8
-民视HD,http://hdtv.ub1818.com/ublive/index_4.m3u8
-TvbsHD,http://hdtv.ub1818.com/ublive/index_5.m3u8
-非凡新闻HD,http://hdtv.ub1818.com/ublive/index_8.m3u8
-中视新闻HD,http://hdtv.ub1818.com/ublive/index_9.m3u8
-华视新闻资讯HD,http://hdtv.ub1818.com/ublive/index_10.m3u8
-FTV综艺,http://hdtv.ub1818.com/ublive/index_11.m3u8
-八大综合台,http://hdtv.ub1818.com/ublive/index_12.m3u8
-ELTA娱乐,http://hdtv.ub1818.com/ublive/index_13.m3u8
-猪哥亮社,http://hdtv.ub1818.com/ublive/index_14.m3u8
-华视CTS,http://hdtv.ub1818.com/ublive/index_15.m3u8
-公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
-nickjr动漫,http://hdtv.ub1818.com/ublive/index_17.m3u8
-靖洋卡通台,http://hdtv.ub1818.com/ublive/index_18.m3u8
-靖天综合台,http://hdtv.ub1818.com/ublive/index_19.m3u8
-靖天日本台,http://hdtv.ub1818.com/ublive/index_20.m3u8
-靖天卡通台,http://hdtv.ub1818.com/ublive/index_21.m3u8
-靖天戏剧台,http://hdtv.ub1818.com/ublive/index_22.m3u8
-靖天电影台,http://hdtv.ub1818.com/ublive/index_23.m3u8
-靖天音乐台,http://hdtv.ub1818.com/ublive/index_24.m3u8
-靖天国际台,http://hdtv.ub1818.com/ublive/index_25.m3u8
-靖天映画,http://hdtv.ub1818.com/ublive/index_26.m3u8
-台湾采昌,http://hdtv.ub1818.com/ublive/index_27.m3u8
-台湾影迷电影,http://hdtv.ub1818.com/ublive/index_28.m3u8
-台湾CNEX,http://hdtv.ub1818.com/ublive/index_29.m3u8
-台湾AMC电影,http://hdtv.ub1818.com/ublive/index_30.m3u8
-靖天资讯台,http://hdtv.ub1818.com/ublive/index_31.m3u8
-靖天欢乐台,http://hdtv.ub1818.com/ublive/index_32.m3u8
-靖洋戏剧台,http://hdtv.ub1818.com/ublive/index_33.m3u8
-台湾CLASSICA音乐,http://hdtv.ub1818.com/ublive/index_34.m3u8
-韩国娱乐台,http://hdtv.ub1818.com/ublive/index_35.m3u8
-旅游频道,http://hdtv.ub1818.com/ublive/index_36.m3u8
-户外频道,http://hdtv.ub1818.com/ublive/index_37.m3u8
-台视财经HD,http://hdtv.ub1818.com/ublive/index_38.m3u8
-TRACE体育,http://hdtv.ub1818.com/ublive/index_39.m3u8
 
 山东,#genre#
 山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
@@ -249,7 +244,9 @@ CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8#http://live.xmcdn
 
 
 景点直播,#genre#
-全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
+青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
 泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
