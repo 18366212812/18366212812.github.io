@@ -228,26 +228,11 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
 平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
 
-收音机,#genre#
-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-青岛经典音乐105.8,http://ls.qingting.fm/live/4613829.m3u8#http://live.xmcdn.com/live/1853/64.m3u8
-CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8#http://live.xmcdn.com/live/1065/64.m3u8#http://ls.qingting.fm/live/386.m3u8#http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8#http://live.xmcdn.com/live/12/64.m3u8#http://ls.qingting.fm/live/388.m3u8#http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8#http://live.xmcdn.com/live/13/64.m3u8#http://ls.qingting.fm/live/389.m3u8#http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8#http://ls.qingting.fm/live/395.m3u8#http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8#http://live.xmcdn.com/live/1066/64.m3u8#http://ls.qingting.fm/live/387.m3u8#http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8#http://live.xmcdn.com/live/14/64.m3u8#http://ls.qingting.fm/live/390.m3u8#http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8#http://live.xmcdn.com/live/15/64.m3u8#http://ls.qingting.fm/live/391.m3u8#http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-安徽戏曲广播,http://stream2.ahrtv.cn/xnxq/sd/live.m3u8
-青岛交通广播89.7,http://ls.qingting.fm/live/1676.m3u8#http://live.xmcdn.com/live/807/64.m3u8
-
-
 景点直播,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
 泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
 泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
@@ -406,3 +391,15 @@ CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8#http://live.xmcdn
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 
+收音机,#genre#
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+青岛经典音乐105.8,http://ls.qingting.fm/live/4613829.m3u8#http://live.xmcdn.com/live/1853/64.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8#http://live.xmcdn.com/live/1065/64.m3u8#http://ls.qingting.fm/live/386.m3u8#http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8#http://live.xmcdn.com/live/12/64.m3u8#http://ls.qingting.fm/live/388.m3u8#http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8#http://live.xmcdn.com/live/13/64.m3u8#http://ls.qingting.fm/live/389.m3u8#http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8#http://ls.qingting.fm/live/395.m3u8#http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8#http://live.xmcdn.com/live/1066/64.m3u8#http://ls.qingting.fm/live/387.m3u8#http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8#http://live.xmcdn.com/live/14/64.m3u8#http://ls.qingting.fm/live/390.m3u8#http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8#http://live.xmcdn.com/live/15/64.m3u8#http://ls.qingting.fm/live/391.m3u8#http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+安徽戏曲广播,http://stream2.ahrtv.cn/xnxq/sd/live.m3u8
+青岛交通广播89.7,http://ls.qingting.fm/live/1676.m3u8#http://live.xmcdn.com/live/807/64.m3u8
