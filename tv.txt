@@ -71,44 +71,6 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-台湾 中视新闻,http://hdtv.ub1818.com/ublive/index_9.m3u8
-台湾 华视新闻资讯,http://hdtv.ub1818.com/ublive/index_10.m3u8
-台湾 非凡新闻,http://hdtv.ub1818.com/ublive/index_8.m3u8
-台湾 中视,http://hdtv.ub1818.com/ublive/index_40.m3u8
-台湾 八大精彩台,http://hdtv.ub1818.com/ublive/index_1.m3u8
-台湾 民视第一台,http://hdtv.ub1818.com/ublive/index_2.m3u8
-台湾 民视台湾台,http://hdtv.ub1818.com/ublive/index_3.m3u8
-台湾 民视,http://hdtv.ub1818.com/ublive/index_4.m3u8
-台湾 TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
-台湾 FTV综艺,http://hdtv.ub1818.com/ublive/index_11.m3u8
-台湾 八大综合台,http://hdtv.ub1818.com/ublive/index_12.m3u8
-台湾 ELTA娱乐,http://hdtv.ub1818.com/ublive/index_13.m3u8
-台湾 猪哥亮社,http://hdtv.ub1818.com/ublive/index_14.m3u8
-台湾 华视CTS,http://hdtv.ub1818.com/ublive/index_15.m3u8
-台湾 公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
-台湾 nickjr动漫,http://hdtv.ub1818.com/ublive/index_17.m3u8
-台湾 靖洋卡通台,http://hdtv.ub1818.com/ublive/index_18.m3u8
-台湾 靖天综合台,http://hdtv.ub1818.com/ublive/index_19.m3u8
-台湾 靖天日本台,http://hdtv.ub1818.com/ublive/index_20.m3u8
-台湾 靖天卡通台,http://hdtv.ub1818.com/ublive/index_21.m3u8
-台湾 靖天戏剧台,http://hdtv.ub1818.com/ublive/index_22.m3u8
-台湾 台湾 靖天电影台,http://hdtv.ub1818.com/ublive/index_23.m3u8
-台湾 靖天音乐台,http://hdtv.ub1818.com/ublive/index_24.m3u8
-台湾 靖天国际台,http://hdtv.ub1818.com/ublive/index_25.m3u8
-台湾 靖天映画,http://hdtv.ub1818.com/ublive/index_26.m3u8
-台湾采昌,http://hdtv.ub1818.com/ublive/index_27.m3u8
-台湾影迷电影,http://hdtv.ub1818.com/ublive/index_28.m3u8
-台湾CNEX,http://hdtv.ub1818.com/ublive/index_29.m3u8
-台湾AMC电影,http://hdtv.ub1818.com/ublive/index_30.m3u8
-靖天资讯台,http://hdtv.ub1818.com/ublive/index_31.m3u8
-靖天欢乐台,http://hdtv.ub1818.com/ublive/index_32.m3u8
-靖洋戏剧台,http://hdtv.ub1818.com/ublive/index_33.m3u8
-台湾CLASSICA音乐,http://hdtv.ub1818.com/ublive/index_34.m3u8
-韩国娱乐台,http://hdtv.ub1818.com/ublive/index_35.m3u8
-旅游频道,http://hdtv.ub1818.com/ublive/index_36.m3u8
-户外频道,http://hdtv.ub1818.com/ublive/index_37.m3u8
-台视财经HD,http://hdtv.ub1818.com/ublive/index_38.m3u8
-TRACE体育,http://hdtv.ub1818.com/ublive/index_39.m3u8
 中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
