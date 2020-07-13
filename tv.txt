@@ -152,6 +152,19 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 淄博都市,http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
 高青综合,http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
 
+浙江1,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+浙江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
+浙江3,http://hw-m-l.cztv.com/channels/lantian/channel03/540p.m3u8
+浙江4,http://hw-m-l.cztv.com/channels/lantian/channel04/540p.m3u8
+浙江5,http://hw-m-l.cztv.com/channels/lantian/channel05/540p.m3u8
+浙江6,http://hw-m-l.cztv.com/channels/lantian/channel06/540p.m3u8
+浙江7,http://hw-m-l.cztv.com/channels/lantian/channel07/540p.m3u8
+浙江8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
+浙江9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
+浙江10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
+
+
+
 电影,#genre#
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
