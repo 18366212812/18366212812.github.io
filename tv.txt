@@ -38,6 +38,11 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+浙江卫视,http://101.71.255.229:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江教育,http://101.71.255.229:6610/zjhs/2/10055/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江民生休闲,http://101.71.255.229:6610/zjhs/2/10056/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江少儿,http://101.71.255.229:6610/zjhs/2/10057/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+杭州综合,http://101.71.255.229:6610/zjhs/2/10016/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
