@@ -27,6 +27,7 @@ IPTV 少儿动画,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225920/10000100
 IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
 
 卫视,#genre#
+中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -34,7 +35,6 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-
 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
