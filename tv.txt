@@ -191,8 +191,10 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 景点直播,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青岛,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/22d092fc40744f858d747e9bba3e450f/1200.m3u8
 青岛 五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛 奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
+庙岛群岛,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0fc22a18376648b59757bb18af5bcd79/1200.m3u8
 上海 陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8#http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 上海 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8#http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
 天津之眼,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
