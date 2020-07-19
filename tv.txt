@@ -4,6 +4,7 @@ CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=
 CCTV-3  综艺,http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-3  相声小品,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225926/10000100000000060000000000218847_0.smil
 IPTV-3+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221226067/10000100000000060000000000323315_0.smil
+IPTV-3  魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
 CCTV-4  亚洲国际,http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-4  美洲,http://cctvksh5ca.v.kcdnvip.com/live/cctvamerica_2/index.m3u8
 CCTV-4  欧洲,http://cctvksh5ca.v.kcdnvip.com/live/cctveurope_2/index.m3u8
@@ -12,21 +13,15 @@ IPTV-5+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225923/100001000000000600
 CCTV-6  电影,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-6+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225921/10000100000000060000000000218870_0.smil
 IPTV-6  经典电影,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225919/10000100000000060000000000218875_0.smil
-CCTV-7高清,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-8  谍战剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225925/10000100000000060000000000218854_0.smil
 IPTV-8+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225924/10000100000000060000000000218860_0.smil
-
 CCTV-11 戏曲,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
 IPTV-12 法治,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225931/10000100000000060000000000218839_0.smil
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 IPTV 收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
-IPTV 魅力时尚,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225927/10000100000000060000000000218867_0.smil
 IPTV 热播剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225918/10000100000000060000000000218878_0.smil
 IPTV 少儿动画,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225920/10000100000000060000000000218874_0.smil
 IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
@@ -67,50 +62,57 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
-台湾 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-台湾 三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+台湾 中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+台湾 年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+台湾 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+台湾 东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+台湾 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+台湾 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+台湾 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+台湾 龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+台湾 动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 
 日照,#genre#
 日照综合1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
+日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
-五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-北京体育,http://112.17.40.145/PLTV/88888888/224/3221226746/index.m3u8
 江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
 吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+浙江卫视1,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+浙江钱江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
+浙江经济3,http://hw-m-l.cztv.com/channels/lantian/channel03/540p.m3u8
+浙江4,http://hw-m-l.cztv.com/channels/lantian/channel04/540p.m3u8
+浙江影视5,http://hw-m-l.cztv.com/channels/lantian/channel05/540p.m3u8
+浙江6,http://hw-m-l.cztv.com/channels/lantian/channel06/540p.m3u8
+浙江新闻7,http://hw-m-l.cztv.com/channels/lantian/channel07/540p.m3u8
+浙江少儿8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
+浙江留学9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
+浙江国际10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
+浙江11,http://hw-m-l.cztv.com/channels/lantian/channel11/540p.m3u8
+浙江12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
+浙江13,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
+
+莒县-1,http://61.162.225.122:8181/live/test1.m3u8
+莒县-2,http://61.162.225.122:8181/live/test2.m3u8
+黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
+黄岛生活2,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
-江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
-江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
-江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
-江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
-江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
-京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -119,47 +121,16 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
+江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
+江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
+江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
+江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
+京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
 南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
 南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
 南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
-日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
-莒县-1,http://61.162.225.122:8181/live/test1.m3u8
-莒县-2,http://61.162.225.122:8181/live/test2.m3u8
-黄岛新闻1,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
-黄岛生活2,http://qdxmtlive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
 
-山东,#genre#
-山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
-山东生活,http://120.221.5.113:8089/PLTV/88888888/224/3221226040/index.m3u8
-山东综艺,http://120.221.5.113:8089/PLTV/88888888/224/3221226101/index.m3u8
-山东影视,http://120.221.5.113:8089/PLTV/88888888/224/3221226044/index.m3u8
-山东公共,http://120.221.5.113:8089/PLTV/88888888/224/3221225962/index.m3u8
-山东体育,http://120.221.5.113:8089/PLTV/88888888/224/3221226003/index.m3u8
-山东国际,http://120.221.5.113:8089/PLTV/88888888/224/3221226047/index.m3u8
-古装剧场,http://120.221.5.111:8089/PLTV/88888888/224/3221226057/index.m3u8
-武术频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225996/index.m3u8
-海看演艺,http://120.221.5.113:8089/PLTV/88888888/224/3221226027/index.m3u8
-海看教育,http://120.221.5.113:8089/PLTV/88888888/224/3221225852/index.m3u8
-海看健康,http://120.221.5.113:8089/PLTV/88888888/224/3221226039/index.m3u8
-古装剧场,http://120.221.5.113:8089/PLTV/88888888/224/3221226057/index.m3u8
-音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
-家庭影院,http://120.221.5.113:8089/PLTV/88888888/224/3221226055/index.m3u8
-喜剧影院,http://120.221.5.113:8089/PLTV/88888888/224/3221225927/index.m3u8
-光影频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225854/index.m3u8
-四海钓鱼,http://120.221.5.113:8089/PLTV/88888888/224/3221225976/index.m3u8
-淄博都市,http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
-高青综合,http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
-
-浙江1,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
-浙江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
-浙江3,http://hw-m-l.cztv.com/channels/lantian/channel03/540p.m3u8
-浙江4,http://hw-m-l.cztv.com/channels/lantian/channel04/540p.m3u8
-浙江5,http://hw-m-l.cztv.com/channels/lantian/channel05/540p.m3u8
-浙江6,http://hw-m-l.cztv.com/channels/lantian/channel06/540p.m3u8
-浙江7,http://hw-m-l.cztv.com/channels/lantian/channel07/540p.m3u8
-浙江8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
-浙江9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
-浙江10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
 
 
 
