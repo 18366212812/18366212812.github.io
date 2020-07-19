@@ -129,8 +129,25 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
 南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
 南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
-
-
+iHoT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHoT游戏,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
 电影,#genre#
@@ -177,7 +194,12 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 青岛 五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛 奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 上海 陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8#http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
-上海 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8#http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
+上海 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8#http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+天津之眼,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+渤海之眼,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01843ae875194736924e2fd2ff987054/1200.m3u8
+珠穆朗玛峰,https://gccncc.v.wscdns.com/gc/bgwn10_1/index.m3u8
+
+
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
 泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
