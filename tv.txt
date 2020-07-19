@@ -12,7 +12,8 @@ IPTV-5+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225923/100001000000000600
 CCTV-6  电影,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-6+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225921/10000100000000060000000000218870_0.smil
 IPTV-6  经典电影,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225919/10000100000000060000000000218875_0.smil
-
+CCTV-7高清,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-8  谍战剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225925/10000100000000060000000000218854_0.smil
 IPTV-8+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225924/10000100000000060000000000218860_0.smil
@@ -38,11 +39,7 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-浙江卫视,http://124.90.32.171:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江教育,http://124.90.32.171:6610/zjhs/2/10055/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江民生休闲,http://124.90.32.171:6610/zjhs/2/10056/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-浙江少儿,http://124.90.32.171:6610/zjhs/2/10057/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-杭州综合,http://124.90.32.171:6610/zjhs/2/10016/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
