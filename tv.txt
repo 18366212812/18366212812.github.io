@@ -13,12 +13,16 @@ IPTV-5+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225923/100001000000000600
 CCTV-6  电影,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-6+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225921/10000100000000060000000000218870_0.smil
 IPTV-6  经典电影,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225919/10000100000000060000000000218875_0.smil
+CCTV-7  军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-8  谍战剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225925/10000100000000060000000000218854_0.smil
 IPTV-8+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225924/10000100000000060000000000218860_0.smil
+CCTV-9  纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10 科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 CCTV-11 戏曲,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-12 法治,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225931/10000100000000060000000000218839_0.smil
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14 少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 IPTV 收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
@@ -270,113 +274,4 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 江苏徐州云龙湖风景区云龙山观景台南,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
-贵州省贞丰市双乳峰景区,https://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
-云南大理崇圣寺三塔中景,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
-云南大理崇圣寺三塔湖面,https://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
-云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-浙江杭州千岛湖,https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
-桂林漓江景区,https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
-南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-玉龙雪山蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-玉龙雪山印象实景,https://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
-玉龙雪山玉液湖,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
-白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-玉龙雪山の一滴水过丽江,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-玉龙雪山の冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-玉龙雪山白水台,https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
-玉龙雪山蓝月谷中游湖面,https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-玉龙雪山の高尔夫,https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-福建漳州六鳌翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-青岛崂山灵旗峰,https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
-青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-青岛崂山太清,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
-三亚南山文化旅游区海上观音,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
-天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-天津海河(回放),https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
-仙都风景区,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
-四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
-平遥古城(回放),https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
-普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
-郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-四川四姑娘山幺妹峰,https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
-四川四姑娘山隆珠措,https://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
-宁夏沙坡头大漠孤烟,https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
-宁夏沙坡头黄河漂流,https://gccncc.v.wscdns.com/gc/nxspthhpl_1/index.m3u8
-宁夏沙坡头长河落日,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8
-丽江古城大水车,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8
-云台山小寨沟,https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
-云台山百家岩,https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
-云台山红石峡,https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
-福建武夷山印象大红袍,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8
-福建武夷山大红袍茶园,https://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
-福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-黄山,https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
-黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
-黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
-黄山飞来石,https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
-黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
-泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-泰山,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
-泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-泰山拱北日出,https://gccncc.v.wscdns.com/gc/hkts01_1/index.m3u8
-泰山白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-泰山经石峪,https://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
-泰山开山,https://gccncc.v.wscdns.com/gc/hkts05_1/index.m3u8
-泰山龙潭水库,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
-泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-泰山扇子崖,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
-泰山太平岭,https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
-泰山玉皇顶东,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
-泰山玉皇顶西,https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
-张家界武陵源景区水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-张家界武陵源景区阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-张家界武陵源景区迷魂台,https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
-张家界武陵源景区御笔峰,https://gccncc.v.wscdns.com/gc/zjjybf_1/index.m3u8
-张家界武陵源景区宝峰湖,https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1_md.m3u8
-张家界武陵源景区将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-四川阿坝州松潘县黄龙景区,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-四川阿坝州松潘县黄龙景区洗身洞,https://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
-四川阿坝州松潘县黄龙景区五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
-四川阿坝州松潘县黄龙景区望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
-乐山大佛全景,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
-江西龙虎山中间水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
-江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
-丹霞山丹梯铁锁,https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
-丹霞山韶音亭,https://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
-云南红河哈尼梯田普高老寨,https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
-云南红河哈尼梯田老虎嘴,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
-云南红河哈尼梯田多依树景点,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-云南红河哈尼梯田坝达景点观景台,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
-峨眉山云海日出,https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
-峨眉山远眺贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
-峨眉山普贤菩萨铜像,https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
-峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-鸣沙山月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
-中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-
-收音机,#genre#
-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-青岛经典音乐105.8,http://ls.qingting.fm/live/4613829.m3u8#http://live.xmcdn.com/live/1853/64.m3u8
-CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8#http://live.xmcdn.com/live/1065/64.m3u8#http://ls.qingting.fm/live/386.m3u8#http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8#http://live.xmcdn.com/live/12/64.m3u8#http://ls.qingting.fm/live/388.m3u8#http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-CNR 经典音乐,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8#http://live.xmcdn.com/live/13/64.m3u8#http://ls.qingting.fm/live/389.m3u8#http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8#http://ls.qingting.fm/live/395.m3u8#http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8#http://live.xmcdn.com/live/1066/64.m3u8#http://ls.qingting.fm/live/387.m3u8#http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8#http://live.xmcdn.com/live/14/64.m3u8#http://ls.qingting.fm/live/390.m3u8#http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8#http://live.xmcdn.com/live/15/64.m3u8#http://ls.qingting.fm/live/391.m3u8#http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-安徽戏曲广播,http://stream2.ahrtv.cn/xnxq/sd/live.m3u8
-青岛交通广播89.7,http://ls.qingting.fm/live/1676.m3u8#http://live.xmcdn.com/live/807/64.m3u8
+贵州省兴义市马岭河
