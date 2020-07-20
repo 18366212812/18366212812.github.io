@@ -1,4 +1,5 @@
 NEW,#genre#
+CCTV13凤凰,http://liveali.ifeng.com/live/CCTV.flv
 CCTV13,http://tkhz.vip/gd.php?id=yueyuHD_7000
 
 香港澳门,#genre#
