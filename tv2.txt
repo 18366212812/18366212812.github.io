@@ -15,16 +15,16 @@ IPTV-5+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225923/100001000000000600
 CCTV-6  电影,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-6+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225921/10000100000000060000000000218870_0.smil
 IPTV-6  经典电影,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225919/10000100000000060000000000218875_0.smil
-CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-7  军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-8  谍战剧场,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225925/10000100000000060000000000218854_0.smil
 IPTV-8+,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225924/10000100000000060000000000218860_0.smil
-CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-9  纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10 科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 CCTV-11 戏曲,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 IPTV-12 法治,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225931/10000100000000060000000000218839_0.smil
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-14 少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 IPTV收视指南,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225916/10000100000000060000000000218880_0.smil
