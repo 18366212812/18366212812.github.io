@@ -63,6 +63,11 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 港澳台,#genre#
+凤凰资讯 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
+凤凰中文 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
+凤凰中文 高清,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯 高清,http://117.169.120.160:8080/live/fhzixun/1.m3u8
+
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
@@ -324,5 +329,11 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 山东影视,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225808/10000100000000060000000000215675_0.smil
 山东综艺,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225810/10000100000000060000000000215680_0.smil
 山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
+
+内蒙古,#genre#
+内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+内蒙古文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
 
 
