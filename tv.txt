@@ -331,9 +331,9 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
 
 内蒙古,#genre#
-内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-内蒙古文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古 文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古 农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古 卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古 新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
 
 
