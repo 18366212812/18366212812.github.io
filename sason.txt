@@ -44,7 +44,6 @@ CCTV4K版,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 广西卫视,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 吉林卫视HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
 山西卫视HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
 陕西卫视HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
@@ -113,13 +112,14 @@ TVBS新闻★,http://seb.sason.top/sc/tvbsxw_.m3u8
 大爱海外,https://tv3.wanfudaluye.com/live/live.m3u8
 
 四川,#genre#
-SCTV-2文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-SCTV-3经济,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-SCTV-4新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-SCTV-5影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-SCTV-7妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-SCTV-8科教,http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=067&Provider_id=&Pcontent_id=index.m3u8
-SCTV-9公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+四川-2文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+四川-3经济,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+四川-4新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+四川-5影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+四川-7妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+四川-8科教,http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=067&Provider_id=&Pcontent_id=index.m3u8
+四川-9公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 CDTV-1新闻综合,https://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=1
 CDTV-2经济资讯,https://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=2
 CDTV-3都市生活,https://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=3
