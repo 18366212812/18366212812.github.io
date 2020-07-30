@@ -328,7 +328,23 @@ CCTV15,http://120.221.5.113:8089/PLTV/88888888/224/3221225941/index.m3u8
 山东综艺,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225810/10000100000000060000000000215680_0.smil
 山东生活,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225809/10000100000000060000000000215679_0.smil
 
-四川 内蒙古,#genre#
+浙江四川内蒙古,#genre#
+杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+CIBN综合[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229836/index.m3u8
+CIBN电影[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229828/index.m3u8
+CIBN微电影[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229819/index.m3u8
+CIBN艺术院线[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229822/index.m3u8
+CIBN文旅中国[853*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229825/index.m3u8
+CIBN纪录片[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229831/index.m3u8
+CIBN真人秀[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229830/index.m3u8
+CIBN院线大片[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229827/index.m3u8
+CIBN童学世界[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229813/index.m3u8
+CIBN动漫[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229845/index.m3u8
+
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 四川-2文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 四川-3经济,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
