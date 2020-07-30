@@ -1,39 +1,9 @@
 咪咕爱看,#genre#
-CCTV1[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228702/index.m3u8
-CCTV1[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228843/index.m3u8
-CCTV1_720,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
-CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228098/index.m3u8
-CCTV1[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229864/index.m3u8
-CCTV1[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229867/index.m3u8
-CCTV2[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228129/index.m3u8
-CCTV2_720,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229095/index.m3u8
-CCTV2[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229095/index.m3u8
-CCTV2[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229341/index.m3u8
-CCTV3_720,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229098/index.m3u8
-CCTV3[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229098/index.m3u8
-CCTV4[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229283/index.m3u8
-CCTV4[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229821/index.m3u8
-CCTV5[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228819/index.m3u8
-CCTV5_1080,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
-CCTV5+[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8
-CCTV6[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8
-CCTV7[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229344/index.m3u8
-CCTV8[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8
-CCTV9[768*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229079/index.m3u8
-CCTV9[768*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229347/index.m3u8
-CCTV10[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229082/index.m3u8
-CCTV10[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229295/index.m3u8
-CCTV11[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229097/index.m3u8
-CCTV13[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229100/index.m3u8
-CCTV12[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229089/index.m3u8
-CCTV14[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229296/index.m3u8
-CCTV14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229157/index.m3u8
-CCTV15[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229103/index.m3u8
-杭州-1[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州-2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
 杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
 杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州-5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 CIBN综合[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229836/index.m3u8
 CIBN电影[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229828/index.m3u8
 CIBN微电影[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229819/index.m3u8
@@ -44,6 +14,37 @@ CIBN真人秀[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229
 CIBN院线大片[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229827/index.m3u8
 CIBN童学世界[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229813/index.m3u8
 CIBN动漫[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229845/index.m3u8
+
+CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228702/index.m3u8
+CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228843/index.m3u8
+CCTV1 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
+CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228098/index.m3u8
+CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229864/index.m3u8
+CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229867/index.m3u8
+CCTV2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228129/index.m3u8
+CCTV2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229341/index.m3u8
+CCTV2 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229095/index.m3u8
+CCTV2 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229095/index.m3u8
+CCTV3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229098/index.m3u8
+CCTV3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229098/index.m3u8
+CCTV4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229283/index.m3u8
+CCTV4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229821/index.m3u8
+CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228819/index.m3u8
+CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
+CCTV5+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8
+CCTV6,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8
+CCTV7,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229344/index.m3u8
+CCTV8,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8
+CCTV9,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229079/index.m3u8
+CCTV9,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229347/index.m3u8
+CCTV10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229295/index.m3u8
+CCTV10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229082/index.m3u8
+CCTV11[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229097/index.m3u8
+CCTV12[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229089/index.m3u8
+CCTV13[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229100/index.m3u8
+CCTV14[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229296/index.m3u8
+CCTV14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229157/index.m3u8
+CCTV15[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229103/index.m3u8
 
 房产电视[720*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229343/index.m3u8
 湖南卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228984/index.m3u8
@@ -112,7 +113,6 @@ CGTN[785*576],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229101/index
 1987号[3840*1920],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229986/index.m3u8
 1990号[3840*2160],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229989/index.m3u8
 1996号[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229995/index.m3u8
-
 
 
 南京移动,#genre#
