@@ -357,5 +357,10 @@ CIBN动漫[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229845
 内蒙古 农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
 内蒙古 卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 内蒙古 新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+宁夏公共高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=5
+宁夏卫视高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+宁夏经济,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
+宁夏少儿高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=28
+宁夏影视,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=29
 
 
