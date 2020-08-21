@@ -65,14 +65,9 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 港澳台,#genre#
 凤凰资讯 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
 凤凰中文 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
-
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-台湾 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-台湾 三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -83,16 +78,8 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-台湾 中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-台湾 年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-台湾 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-台湾 东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-台湾 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-台湾 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-台湾 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-台湾 龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-台湾 动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 
 日照,#genre#
 日照 综合 1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8
