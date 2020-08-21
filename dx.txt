@@ -33,6 +33,7 @@ IPTV热播剧场,http://150.138.8.143/00/SNM/CHANNEL00000608/index.m3u8
 IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 
 卫视,#genre#
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000022/index.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
 安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000020/index.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000018/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
@@ -82,18 +83,19 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 
 山东地方,#genre#
-日照综合1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8#http://stream.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8#http://stream.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
-日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
-莒县-1,http://61.162.225.122:8181/live/test1.m3u8
-莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 青岛-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 青岛-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
 青岛-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
 青岛-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+日照综合1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8#http://stream.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8#http://stream.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
+日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
+莒县-1,http://61.162.225.122:8181/live/test1.m3u8
+莒县-2,http://61.162.225.122:8181/live/test2.m3u8
+
 济南-1,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
 济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
@@ -167,4 +169,21 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 上海|魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8#http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 
 港台,#genre#
+凤凰资讯 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
+凤凰中文 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
+
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
