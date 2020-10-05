@@ -65,6 +65,8 @@ IPTV野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/100001000000000
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 香港澳门,#genre#
+凤凰资讯 高清，http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
+凤凰中文 高清，http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
