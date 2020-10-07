@@ -1,8 +1,9 @@
 CCTV,#genre#
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV-1综合,http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
-日照 电视台 1，http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照 电视台 2，http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-山东 卫视 1，http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
+日照 电视台 1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照 电视台 2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+山东 卫视 1,http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
 山东 综艺 2,http://10.255.139.4:8060/live/10020_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
 山东 齐鲁 3,http://10.255.139.4:8060/live/10021_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 CCTV-2财经,http://150.138.8.143/00/SNM/CHANNEL00000002/index.m3u8
@@ -38,7 +39,7 @@ IPTV热播剧场,http://150.138.8.143/00/SNM/CHANNEL00000608/index.m3u8
 IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 
 卫视,#genre#
-天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000022/index.m3u8
 安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000020/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000018/index.m3u8
