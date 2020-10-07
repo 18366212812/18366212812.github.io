@@ -131,6 +131,19 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 淄博科教,http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
 
 各省,#genre#
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
+五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
+江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
+吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
+江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
+江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
+江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
+江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
+江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
+京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
+南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
+南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
+南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
 浙江国际10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江钱江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
@@ -148,27 +161,8 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
 杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
-北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
-北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
-北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
-五星体育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
-吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
-江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
-江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
-江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
-江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
-江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
-京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
-南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
-南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
-南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
+
+
 CIBN综合[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229836/index.m3u8
 CIBN电影[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229828/index.m3u8
 CIBN微电影[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229819/index.m3u8
