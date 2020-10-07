@@ -1,8 +1,10 @@
 CCTV,#genre#
 CCTV-1综合,http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
-山东卫视，http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
-日照 电视台1，http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照 电视台 1，http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照 电视台 2，http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+山东 卫视 1，http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
+山东 综艺 2,http://10.255.139.4:8060/live/10020_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
+山东 齐鲁 3,http://10.255.139.4:8060/live/10021_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 CCTV-2财经,http://150.138.8.143/00/SNM/CHANNEL00000002/index.m3u8
 CCTV-3综艺,http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
 CCTV-4国际,http://10.255.139.4:8060/live/10004_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000004/index.m3u8
@@ -52,7 +54,7 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000041/index.m3u8
 黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000027/index.m3u8
 海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000030/index.m3u8
-东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000028/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000028/index.m3u8
 重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000023/index.m3u8
 广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8
 云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8
@@ -74,9 +76,12 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 
 山东,#genre#
-山东卫视,http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
-山东综艺,http://10.255.139.4:8060/live/10020_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
-山东齐鲁,http://10.255.139.4:8060/live/10021_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
+青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+青岛-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+青岛-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+青岛-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+青岛-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东公共,http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000057/index.m3u8
 山东影视,http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
@@ -87,13 +92,6 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 海看大片,http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
 
-山东,#genre#
-青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
-青岛-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
-青岛-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
-青岛-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
-青岛-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 日照综合1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8#http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8#http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
@@ -144,6 +142,11 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 浙江留学9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
 浙江数码时代12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
+杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -165,11 +168,6 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
 南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
 南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
-杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 CIBN综合[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229836/index.m3u8
 CIBN电影[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229828/index.m3u8
 CIBN微电影[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229819/index.m3u8
@@ -223,7 +221,6 @@ CIBN动漫[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229845
 港台,#genre#
 凤凰资讯 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
 凤凰中文 高清,http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
-
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
