@@ -4,11 +4,9 @@ CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
 日照 电视台 1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照 电视台 2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 山东 卫视 1,http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
-山东 综艺 2,http://10.255.139.4:8060/live/10020_1200.m3u8
-山东 齐鲁 3,http://10.255.139.4:8060/live/10021_1200.m3u8
 CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000002/index.m3u8
 CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
-CCTV-4 国际,http://10.255.139.4:8060/live/10004_1200.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000004/index.m3u8
+CCTV-4 国际,http://150.138.8.143/00/SNM/CHANNEL00000004/index.m3u8
 CCTV-5 体育,http://150.138.8.143/00/SNM/CHANNEL00000005/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8
 CCTV-5+体育,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 CCTV-6 电影,http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
@@ -94,7 +92,9 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 山东国际,http://150.138.8.143/00/SNM/CHANNEL00000060/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 海看大片,http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
-
+山东 综艺 2,http://10.255.139.4:8060/live/10020_1200.m3u8
+山东 齐鲁 3,http://10.255.139.4:8060/live/10021_1200.m3u8
+CCTV-4 国际,http://10.255.139.4:8060/live/10004_1200.m3u8
 日照综合1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8#http://stream.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8#http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照公共3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
