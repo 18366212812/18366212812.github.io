@@ -101,7 +101,7 @@ CCTV-4 国际,http://10.255.139.4:8060/live/10004_1200.m3u8
 日照导视4,http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 莒县-1,http://61.162.225.122:8181/live/test1.m3u8
 莒县-2,http://61.162.225.122:8181/live/test2.m3u8
-
+新,http://150.138.8.143:80/00/SNM/CHANNEL00001002/index.m3u8
 济南-1,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
 济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
