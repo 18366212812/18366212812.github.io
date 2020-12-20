@@ -150,18 +150,7 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 电  影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
-黄飞鸿之王者无敌,http://jiasu-a1.jiankangkuaile99.com/a1/20190730/%E9%BB%84%E9%A3%9E%E9%B8%BF%E4%B9%8B%E7%8E%8B%E8%80%85%E6%97%A0%E6%95%8C/2000kb/hls/index.m3u8
-新方世玉,http://jiasu-a5.jiankangkuaile99.com/a5/20191117/%E6%96%B0%E6%96%B9%E4%B8%96%E7%8E%89%E4%B9%8B%E5%86%B3%E6%88%98%E5%8D%B1%E5%9F%8E/2000kb/hls/index.m3u8
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8#http://videotiantian.gslawyerunion.com/20190629/JyrBZQxm/2397kb/hls/index.m3u8?wsSecret=9c335e52e431b941d4dc2fe5a0680317&wsTime=1581077630996#http://videotiantian.gslawyerunion.com/20190629/JyrBZQxm/2397kb/hls/index.m3u8?wsSecret=17b74c3596818dc94b806e1852df5ecf&wsTime=1580908460412
-少林五祖,http://videotiantian.gslawyerunion.com/20191027/ll0v1opw/500kb/hls/index.m3u8?wsSecret=ba82f01e731fba556ff815f5f13850d4&wsTime=1581078187062#http://videotiantian.gslawyerunion.com/20181122/mGwvQP5M/2598kb/hls/index.m3u8?wsSecret=b7d5d7ad7880f2feebe2bb01818eabac&wsTime=1580910549021
-龙在少林,http://videotiantian.gslawyerunion.com/20190825/V7ZYbUU0/hls/index.m3u8?wsSecret=b51705a3df1b0e2b045dfc72ef4ae2f2&wsTime=1581078888256
-方世玉2,http://jiasu-a2.jiankangkuaile99.com/a2/20190706/%E6%96%B9%E4%B8%96%E7%8E%89%E4%B8%8E%E8%83%A1%E6%83%A0%E4%B9%BE/2000kb/hls/index.m3u8
-
-侠女,http://videotiantian.gslawyerunion.com/20190613/vvHC0zio/2700kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
-独臂拳王,http://videotiantian.gslawyerunion.com/20181124/SiIQovTK/2901kb/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
-醉拳,http://jiasu-a4.jiankangkuaile99.com/a4/20190702/%E9%86%89%E6%8B%B3/2000kb/hls/index.m3u8
-日本少林,http://videotiantian.gslawyerunion.com/20181231/2IDAaMQ4/1585kb/hls/index.m3u8?wsSecret=6d18d09e56dc9da994172c14a515f181&wsTime=1581079229631
-新少林五祖,http://videotiantian.gslawyerunion.com/20181122/mGwvQP5M/2598kb/hls/index.m3u8?wsSecret=c290d5224785db66f512b24d22cb8c3c&wsTime=1581081623749
 红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
 五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
 洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
@@ -183,15 +172,13 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 
 景点直播,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-青岛,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/22d092fc40744f858d747e9bba3e450f/1200.m3u8
 青岛 五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛 奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
-庙岛群岛,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/0fc22a18376648b59757bb18af5bcd79/1200.m3u8
 上海 陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8#http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 上海 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8#http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
 天津之眼,https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
-渤海之眼,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01843ae875194736924e2fd2ff987054/1200.m3u8
 珠穆朗玛峰,https://gccncc.v.wscdns.com/gc/bgwn10_1/index.m3u8
+渤海之眼,http://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/01843ae875194736924e2fd2ff987054/1200.m3u8
 
 
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
@@ -256,46 +243,17 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 
-新疆,#genre#
+各地,#genre#
+杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州-3 生活,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州-4 影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+
 新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
 新疆经济生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
 新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
 新疆信息服务11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-
-杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-杭州-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-杭州-4 影视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
-CIBN综合[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229836/index.m3u8
-CIBN电影[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229828/index.m3u8
-CIBN微电影[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229819/index.m3u8
-CIBN艺术院线[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229822/index.m3u8
-CIBN文旅中国[853*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229825/index.m3u8
-CIBN纪录片[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229831/index.m3u8
-CIBN真人秀[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229830/index.m3u8
-CIBN院线大片[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229827/index.m3u8
-CIBN童学世界[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229813/index.m3u8
-CIBN动漫[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229845/index.m3u8
-
-峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-四川-2文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-四川-3经济,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-四川-4新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-四川-5影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-四川-7妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-四川-8科教,http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=067&Provider_id=&Pcontent_id=index.m3u8
-四川-9公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-内蒙古 文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-内蒙古 农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古 卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-内蒙古 新闻综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-宁夏公共高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=5
-宁夏卫视高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
-宁夏经济,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
-宁夏少儿高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=28
-宁夏影视,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=29
-
 
