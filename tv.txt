@@ -65,14 +65,12 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 港澳台,#genre#
 凤凰资讯 (高清),http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
 凤凰中文 (高清),http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
-凤凰卫视,http://hdtv.haust.edu.cn/hls/fhzw.m3u8
-凤凰资讯,http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-凤凰电影,http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
