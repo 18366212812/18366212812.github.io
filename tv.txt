@@ -257,6 +257,13 @@ CHC华城电影,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 
+新疆,#genre#
+新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆经济生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆信息服务11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
 
 山东,#genre#
 山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
