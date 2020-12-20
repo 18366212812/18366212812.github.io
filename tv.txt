@@ -134,9 +134,9 @@ HBO2,vjms://58.215.133.154:8500/live/cid=261
 新疆,#genre#
 新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-新疆经济生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆经济7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
 新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-新疆信息服务11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆信息11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
 
 
