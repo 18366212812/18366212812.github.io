@@ -89,6 +89,7 @@ HBO2,vjms://58.215.133.154:8500/live/cid=261
 
 
 日照,#genre#
+日照,http://stream.rzw.com.cn/xwzh/playlist.m3u8?_upt=d29bb64e1609503825
 日照 综合 1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8#http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 日照 科教 2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照 公共 3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
