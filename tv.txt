@@ -31,7 +31,6 @@ IPTV 少儿动画,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225920/10000100
 IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000060000000000218841_0.smil
 
 卫视,#genre#
-天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -63,12 +62,9 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 港澳台,#genre#
-凤凰资讯 (高清),http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zxhd
-凤凰中文 (高清),http://tkbunj246.nian.gfzyw.cn/dl/ifeng.php?id=zwhd
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-
 凤凰中文,vjms://58.215.133.154:8500:3502/live/cid=400
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -89,28 +85,22 @@ HBO2,vjms://58.215.133.154:8500/live/cid=261
 
 
 日照,#genre#
+天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 临沂综合,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 临沂公共,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
 临沂农科,https://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1244.m3u8
+连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
+连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+莒县-1,http://61.162.225.122:8181/live/test1.m3u8
+莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 日照,http://stream.rzw.com.cn/xwzh/sd/live.m3u8?_upt=1f1aa6611610213165
 日照2,http://stream.rzw.com.cn/ggpd/playlist.m3u8?_upt=0cf41df41609504375
 日照3,http://stream.rzw.com.cn/kzpd/playlist.m3u8?_upt=50b20cee1609504435
 日照 综合 1,http://stream.rzw.com.cn/xwzh/sd/live.m3u8#http://stream.rzw.com.cn/fcpd/sd/live.m3u8
 日照 科教 2,http://stream.rzw.com.cn/ggpd/sd/live.m3u8
 日照 公共 3,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
-连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
-连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
-莒县-1,http://61.162.225.122:8181/live/test1.m3u8
-莒县-2,http://61.162.225.122:8181/live/test2.m3u8
 
-江苏、浙江,#genre#
-江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
-吉林篮球,http://223.110.247.161:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX
-杭州-1 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州-2 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-杭州-3 生活,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-杭州-4 影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州-5 体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+浙江,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
 浙江国际10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江钱江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
@@ -123,7 +113,9 @@ HBO2,vjms://58.215.133.154:8500/live/cid=261
 浙江留学9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
 浙江数码时代12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
+
+江苏,#genre#
+江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
 江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
 江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
 江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
@@ -133,14 +125,17 @@ HBO2,vjms://58.215.133.154:8500/live/cid=261
 南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
 南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
 南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
 
-新疆、北京,#genre#
+新疆,#genre#
 新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
 新疆经济7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
 新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
 新疆信息11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+
+北京,#genre#
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
