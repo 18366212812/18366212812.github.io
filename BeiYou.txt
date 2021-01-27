@@ -1,21 +1,21 @@
 CCTV,#genre#
-CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-CCTV2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-CCTV3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV5,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv5.m3u8
-CCTV5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-CCTV7,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-CCTV9,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV10,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-CCTV11,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV12,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-CCTV13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV14,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CGTN16,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CCTV1综合HD,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV3综艺HD,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV5?,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+CCTV5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV6电影HD,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV7军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV8电视剧HD,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+CCTV9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV12社会与法,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CGTN16英语,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 
 付费,#genre#
 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
@@ -32,7 +32,6 @@ CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 北京,#genre#
 北京卫视HD,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺HD,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8
-北京体育HD,http://ivi.bupt.edu.cn/hls/btv6hd.m3u8#http://ivi.bupt.edu.cn/hls/btv6.m3u8
 北京纪实HD,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
@@ -43,8 +42,8 @@ CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 北京卡酷,http://ivi.bupt.edu.cn/hls/btv10.m3u8
 
 卫视,#genre#
+山东卫视高清,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 湖南卫视高清,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-浙江卫视高清,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 江苏卫视高清,http://ivi.bupt.edu.cn/hls/jshd.m3u8
 东方卫视高清,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 安徽卫视高清,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
@@ -54,7 +53,6 @@ CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 广东卫视高清,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 天津卫视高清,http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 湖北卫视高清,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-山东卫视高清,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 重庆卫视高清,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 四川卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/schd
 江西卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
@@ -64,6 +62,7 @@ CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 上视纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
 金鹰纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 全纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryh
+浙江卫视高清,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 深圳卫视,http://ivi.bupt.edu.cn/hls/sztv.m3u8
 安徽卫视,http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
