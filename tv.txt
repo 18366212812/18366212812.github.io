@@ -77,7 +77,16 @@ IPTV 野外,rtsp://27.195.129.60:554/PLTV/88888888/224/3221225930/10000100000000
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live,http://seb.sason.top/sc/sllive_fhd.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
+台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
 动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
 HBO2,vjms://58.215.133.154:8500/live/cid=261
 凤凰资讯,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
