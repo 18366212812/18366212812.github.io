@@ -149,7 +149,7 @@ IPTV少儿动画,http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
 欧美影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002003/index.m3u8
 
 
-烟台威海潍坊等,#genre#
+烟台威海,#genre#
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
 烟台公共,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8
 烟台经济,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000282/index.m3u8
@@ -164,25 +164,25 @@ IPTV少儿动画,http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
 济宁综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000238/index.m3u8
 济宁教育,http://39.137.76.32:8089/00/SNM/CHANNEL00000239/index.m3u8
 
-青岛临沂日照等,#genre#
+青岛临沂,#genre#
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8
 临沂公共,http://39.137.76.32:8089/00/SNM/CHANNEL00000256/index.m3u8
 临沂农科,http://39.137.76.32:8089/00/SNM/CHANNEL00000121/index.m3u8
-日照新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8
 QTV-1,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
 QTV-4,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8
 QTV-5,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
 QTV-6,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
+日照新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8
+莒县,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001014/index.m3u8
 寿光新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8
 寿光蔬菜,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001045/index.m3u8
 诸城新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8
-莒县,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001014/index.m3u8
 文登,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001017/index.m3u8
 
-济南等,#genre#
+济南东营,#genre#
 济南新闻高清,http://39.137.76.32:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000061/index.m3u8
 济南影视,http://39.137.76.32:8089/00/SNM/CHANNEL00000064/index.m3u8
