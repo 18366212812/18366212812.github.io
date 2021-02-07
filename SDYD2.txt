@@ -219,6 +219,5 @@ IPTV少儿动画,http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
 海看生活,http://39.137.76.32:8089/00/SNM/CHANNEL00000202/index.m3u8
 海看演艺,http://39.137.76.32:8089/00/SNM/CHANNEL00000400/index.m3u8
 海看少儿,http://39.137.76.32:8089/00/SNM/CHANNEL00000402/index.m3u8
-海看4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 动漫秀场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 欧美影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002003/index.m3u8
