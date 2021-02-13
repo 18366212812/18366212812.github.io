@@ -12,6 +12,7 @@ CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDoma
 CCTV-9  纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 CCTV-10 科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 CCTV-11 戏曲,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-12 法制,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-14 少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
