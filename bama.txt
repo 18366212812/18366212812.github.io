@@ -1,4 +1,4 @@
-1.山东电信
+1.山东电信,#genre#
 天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 日照 电视台 1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照 电视台 2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
@@ -120,7 +120,7 @@ IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
 淄博科教,http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
 
-2.山东联通
+2.山东联通,#genre#
 天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV-1  综合,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
