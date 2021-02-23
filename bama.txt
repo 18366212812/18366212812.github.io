@@ -1,0 +1,211 @@
+1.山东电信
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+日照 电视台 1,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照 电视台 2,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+山东卫视,http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
+CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
+CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000002/index.m3u8
+CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
+CCTV-4 国际,http://150.138.8.143/00/SNM/CHANNEL00000004/index.m3u8
+CCTV-5 体育,http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000005/index.m3u8
+CCTV-5+体育,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+CCTV-6 电影,http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
+CCTV-7 军事,http://150.138.8.143/00/SNM/CHANNEL00000007/index.m3u8
+CCTV-8 电视剧,http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
+CCTV-9 纪录,http://150.138.8.143/00/SNM/CHANNEL10000009/index.m3u8
+CCTV-10 科教,http://150.138.8.143/00/SNM/CHANNEL00000010/index.m3u8
+CCTV-11 戏曲,http://150.138.8.143/00/SNM/CHANNEL00000011/index.m3u8
+CCTV-12 社会与法,http://150.138.8.143/00/SNM/CHANNEL00000012/index.m3u8
+CCTV-13 新闻,http://150.138.8.143/00/SNM/CHANNEL00000013/index.m3u8
+CCTV-14 少儿,http://150.138.8.143/00/SNM/CHANNEL00000014/index.m3u8
+CCTV-15 音乐,http://150.138.8.143/00/SNM/CHANNEL00000015/index.m3u8
+CCTV-17 农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+IPTV相声小品,http://150.138.8.143/00/SNM/CHANNEL00000606/index.m3u8
+IPTV魅力时尚,http://150.138.8.143/00/SNM/CHANNEL00000609/index.m3u8
+喜剧影院,http://150.138.8.143/00/SNM/CHANNEL00000602/index.m3u8
+动作影院,http://150.138.8.143/00/SNM/CHANNEL00000603/index.m3u8
+IPTV经典电影,http://150.138.8.143/00/SNM/CHANNEL00000604/index.m3u8
+IPTV热播剧场,http://150.138.8.143/00/SNM/CHANNEL00000608/index.m3u8
+墨宝,http://150.138.8.143/00/SNM/CHANNEL00000610/index.m3u8
+光影,http://150.138.8.143/00/SNM/CHANNEL00000611/index.m3u8
+美人,http://150.138.8.143/00/SNM/CHANNEL00000612/index.m3u8
+环球旅游,http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8
+财富天下,http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8
+四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+中华特产,http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
+生态环境,http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
+车迷频道,http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
+IPTV少儿动画,http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
+中国交通,http://150.138.8.143:80/00/SNM/CHANNEL00000073/index.m3u8
+东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000022/index.m3u8
+安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000020/index.m3u8
+江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000018/index.m3u8
+浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000016/index.m3u8
+北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000019/index.m3u8
+湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000017/index.m3u8
+湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000031/index.m3u8
+天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000021/index.m3u8
+广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000025/index.m3u8
+深圳卫视,http://150.138.8.143/00/SNM/CHANNEL00000024/index.m3u8
+辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000026/index.m3u8
+河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000034/index.m3u8
+贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000041/index.m3u8
+黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000027/index.m3u8
+海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000030/index.m3u8
+东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000028/index.m3u8
+重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000023/index.m3u8
+广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8
+云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8
+河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000037/index.m3u8
+吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000036/index.m3u8
+江西卫视,http://150.138.8.143/00/SNM/CHANNEL00000035/index.m3u8
+山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+陕西卫视,http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+四川卫视,http://150.138.8.143/00/SNM/CHANNEL00000033/index.m3u8
+甘肃卫视,http://150.138.8.143/00/SNM/CHANNEL00000046/index.m3u8
+宁夏卫视,http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
+青海卫视,http://150.138.8.143/00/SNM/CHANNEL00000042/index.m3u8
+西藏卫视,http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+新疆卫视,http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+内蒙古卫视,http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
+卡酷动画,http://150.138.8.143/00/SNM/CHANNEL00000048/index.m3u8
+炫动卡通,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+青岛-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+青岛-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+青岛-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+青岛-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
+山东公共,http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000057/index.m3u8
+山东影视,http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8
+山东农科,http://150.138.8.143/00/SNM/CHANNEL00000058/index.m3u8
+山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000059/index.m3u8
+山东国际,http://150.138.8.143/00/SNM/CHANNEL00000060/index.m3u8
+山东教育,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
+海看大片,http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
+新,http://150.138.8.143:80/00/SNM/CHANNEL00001002/index.m3u8
+济南-1,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
+济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+济南影视,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+济南商务,http://150.138.8.143/00/SNM/CHANNEL00000066/index.m3u8
+济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
+济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+烟台新闻,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
+烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
+潍坊新闻,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
+潍坊都市,http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
+德州新闻,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
+德州公共,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+滨州新闻,http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
+滨州公共,http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
+东营新闻,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
+东营公共,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+菏泽1,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+菏泽3,http://150.138.8.143/00/SNM/CHANNEL00000233/index.m3u8
+济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
+济宁教育,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
+莱芜1,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+莱芜2,http://150.138.8.143/00/SNM/CHANNEL00000245/index.m3u8
+威海2公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
+淄博新闻,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+淄博都市,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
+淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
+淄博科教,http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
+
+2.山东联通
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+CCTV-1  综合,http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-2  经济,http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-3  综艺,http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4  国际,http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-5  体育,http://101.71.255.229:6610/zjhs/2/10075/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-6  电影,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-7  军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-8  电视剧,http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-9  纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10 科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-11 戏曲,http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-12 法制,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14 少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15 音乐,http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+电  影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+黑龙江卫视,http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东南卫视,http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广西卫视,http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+四川卫视,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+中国教育,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+海南卫视,http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+重庆卫视,http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+内蒙古卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆经济7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆信息11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
+北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
+北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+浙江国际10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
+浙江钱江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
+浙江经济3,http://hw-m-l.cztv.com/channels/lantian/channel03/540p.m3u8
+浙江4,http://hw-m-l.cztv.com/channels/lantian/channel04/540p.m3u8
+浙江影视5,http://hw-m-l.cztv.com/channels/lantian/channel05/540p.m3u8
+浙江6,http://hw-m-l.cztv.com/channels/lantian/channel06/540p.m3u8
+浙江新闻7,http://hw-m-l.cztv.com/channels/lantian/channel07/540p.m3u8
+浙江少儿8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
+浙江留学9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
+浙江数码时代12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
+江苏体育,http://223.110.247.161:6610/gitv/live1/G_JSTY/G_JSTY
+江苏影视,http://223.110.247.161:6610/gitv/live1/G_JSYS/G_JSYS
+江苏教育,http://223.110.247.161:6610/gitv/live1/G_JSJY/G_JSJY
+江苏城市,http://223.110.247.161:6610/gitv/live1/G_JSCS/G_JSCS
+江苏公共,http://223.110.247.161:6610/gitv/live1/G_JSGG/G_JSGG
+江苏综艺,http://223.110.247.161:6610/gitv/live1/G_JSZY/G_JSZY
+京视剧场,http://223.110.247.161:6610/gitv/live1/G_JINGJU/G_JINGJU
+南京新闻综合,http://223.110.247.161:6610/gitv/live1/G_NJXW/G_NJXW
+南京科教,http://223.110.247.161:6610/gitv/live1/G_NJJK/G_NJJK
+南京十八,http://223.110.247.161:6610/gitv/live1/G_NJSB/G_NJSB
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
+连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
+连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+莒县-1,http://61.162.225.122:8181/live/test1.m3u8
+莒县-2,http://61.162.225.122:8181/live/test2.m3u8
