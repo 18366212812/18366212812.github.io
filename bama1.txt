@@ -16,6 +16,15 @@ CCTV13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 CGTN16英语,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+凤凰,#genre#
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+STAR SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 北京,#genre#
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
@@ -68,12 +77,4 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 炫动卡通,rtmp://ivi.bupt.edu.cn:1935/livetv/xdkttv
 优漫卡通,rtmp://ivi.bupt.edu.cn:1935/livetv/ymkttv
 山东教育,rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
-凤凰,#genre#
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-STAR SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
