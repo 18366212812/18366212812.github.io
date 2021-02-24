@@ -481,7 +481,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 优漫卡通,rtmp://ivi.bupt.edu.cn:1935/livetv/ymkttv
 山东教育,rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰中文2,http://ivi.bupt.edu.cn/hls/fhzw.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
