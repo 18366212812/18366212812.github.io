@@ -100,13 +100,6 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8?app=114040210343&videotype=1&uid=1
 
 北京新疆,#genre#
-新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
-新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-新疆经济7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
-新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-新疆信息11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -115,6 +108,17 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京体育,http://ivi.bupt.edu.cn/hls/btv11.m3u8
+
+
+新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆经济7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆信息11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+
+
 
 电影,#genre#
 电影1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
