@@ -116,13 +116,16 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 
 电影,#genre#
-电  影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+电影1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+电影2,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+动画片,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
+
 
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8#http://videotiantian.gslawyerunion.com/20190629/JyrBZQxm/2397kb/hls/index.m3u8?wsSecret=9c335e52e431b941d4dc2fe5a0680317&wsTime=1581077630996#http://videotiantian.gslawyerunion.com/20190629/JyrBZQxm/2397kb/hls/index.m3u8?wsSecret=17b74c3596818dc94b806e1852df5ecf&wsTime=1580908460412
 红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
