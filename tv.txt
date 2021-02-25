@@ -61,9 +61,6 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
-HBO2,vjms://58.215.133.154:8500/live/cid=261
-凤凰资讯,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 
 
 临沂,#genre#
