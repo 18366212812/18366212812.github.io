@@ -48,9 +48,6 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 港澳台,#genre#
-凤凰中文高清,http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8
-凤凰咨询高清,http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
-
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
