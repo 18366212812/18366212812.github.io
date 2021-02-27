@@ -125,6 +125,22 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 电影,#genre#
 电影1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 电影2,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+周星驰,http://kuqq.tk/00/huya.php?id=11342412
+林正英,http://kuqq.tk/00/huya.php?id=11342421
+成龙,http://kuqq.tk/00/huya.php?id=11342386
+李连杰,http://kuqq.tk/00/huya.php?id=11342390
+吴京,http://kuqq.tk/00/huya.php?id=11602045
+刘德华,http://kuqq.tk/00/huya.php?id=11342424
+五福星,http://kuqq.tk/00/huya.php?id=11282233
+甄子丹,http://kuqq.tk/00/huya.php?id=11352935
+周润发,http://kuqq.tk/00/huya.php?id=11342387
+沈腾,http://kuqq.tk/00/huya.php?id=11601968
+洪金宝,http://kuqq.tk/00/huya.php?id=11342427
+徐峥,http://kuqq.tk/00/huya.php?id=11602043
+赌片,http://kuqq.tk/00/huya.php?id=11342399
+黑帮,http://kuqq.tk/00/huya.php?id=11336719
+
 动画片,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
