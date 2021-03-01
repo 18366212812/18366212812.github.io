@@ -1,0 +1,10 @@
+CHC高清电影,http://www.yeyuhome.online:4000/udp/239.253.254.154:8000
+CHC动作电影,http://www.yeyuhome.online:4000/udp/239.253.254.153:8000
+CHC家庭影院,http://www.yeyuhome.online:4000/udp/239.253.254.152:8000
+山东教育HD,http://www.yeyuhome.online:4000/udp/239.253.254.59:8000
+山东齐鲁HD,http://www.yeyuhome.online:4000/udp/239.253.254.114:8000
+山东综艺HD,http://www.yeyuhome.online:4000/udp/239.253.254.159:8000
+山东影视HD,http://www.yeyuhome.online:4000/udp/239.253.254.160:8000
+山东生活HD,http://www.yeyuhome.online:4000/udp/239.253.254.151:8000
+山东新闻HD,http://www.yeyuhome.online:4000/udp/239.253.254.23:8000
+山东农科HD,http://www.yeyuhome.online:4000/udp/239.253.254.24:8000
