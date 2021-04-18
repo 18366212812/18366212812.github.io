@@ -61,6 +61,10 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+Baby First,https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8#https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Baby First,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+Baby First,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22356-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9245c0c5-80d7-43b0-a132-df93fca90821&userId=&serverSideAds=true
 
 
 临沂,#genre#
