@@ -10,3 +10,4 @@ Kartoon Fun Time,https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 崂山太清宫,https://ysrtmp.swlive.cn/openlive/41ba20b9c7804c7888a239ee5c387065/playlist.m3u8?stream=q5y1w
 崂山太清弯,https://ysrtmp.swlive.cn/openlive/741928495f8549a4a7ff3ef8e0caef73/playlist.m3u8?stream=06xy0
 崂山华严寺,https://ysrtmp.swlive.cn/openlive/f68c328604674ef7b6e5da6ae2e57774/playlist.m3u8?stream=8xrgr
+崂山双福,https://gctxyc.liveplay.myqcloud.com/gc/qdls03_1/index.m3u8?contentid=2820180516001
