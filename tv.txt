@@ -63,7 +63,7 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
-临沂,#genre#
+本地天气,#genre#
 天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
