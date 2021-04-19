@@ -5,3 +5,8 @@ Kidoodle ca,https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 Kidoodle  uk,https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 GNTV Kids Channel,https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
 Kartoon Fun Time,https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+崂山灵旗峰,https://ysrtmp.swlive.cn/openlive/37bafeb4d89745c0b4ce6816cac2cbf5/playlist.m3u8?stream=y3305
+崂山太清宫,https://ysrtmp.swlive.cn/openlive/41ba20b9c7804c7888a239ee5c387065/playlist.m3u8?stream=q5y1w
+崂山太清弯,https://ysrtmp.swlive.cn/openlive/741928495f8549a4a7ff3ef8e0caef73/playlist.m3u8?stream=06xy0
+崂山华严寺,https://ysrtmp.swlive.cn/openlive/f68c328604674ef7b6e5da6ae2e57774/playlist.m3u8?stream=8xrgr
