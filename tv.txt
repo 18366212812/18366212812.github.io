@@ -186,6 +186,10 @@ iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=z
 
 景点直播,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+崂山灵旗峰,https://ysrtmp.swlive.cn/openlive/37bafeb4d89745c0b4ce6816cac2cbf5/playlist.m3u8?stream=y3305
+崂山太清宫,https://ysrtmp.swlive.cn/openlive/41ba20b9c7804c7888a239ee5c387065/playlist.m3u8?stream=q5y1w
+崂山太清弯,https://ysrtmp.swlive.cn/openlive/741928495f8549a4a7ff3ef8e0caef73/playlist.m3u8?stream=06xy0
+崂山华严寺,https://ysrtmp.swlive.cn/openlive/f68c328604674ef7b6e5da6ae2e57774/playlist.m3u8?stream=8xrgr
 青岛 五四广场,http://video11.qtv.com.cn/aqdafzx/manifest.m3u8
 青岛 奥帆中心,http://video11.qtv.com.cn/aqdwsgc/manifest.m3u8
 上海 陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8#http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
