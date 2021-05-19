@@ -51,6 +51,9 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 港澳台,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -69,6 +72,22 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 连云港 公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 莒县1,http://61.162.225.122:8181/live/test1.m3u8
 莒县2,http://61.162.225.122:8181/live/test2.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
+山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+德州综合,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+德州公共,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+哈尔滨综合,http://39.134.65.175/PLTV/88888888/224/3221225684/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+葫芦岛综合,http://live.hldbtv.com/xwzh/sd/live.m3u8
+西安综合,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+西安都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+丝路频道,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+
+
+
 
 浙江,#genre#
 
@@ -88,6 +107,9 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 
 
 北京新疆,#genre#
+北京淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
+北京淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/index.m3u8
+
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
