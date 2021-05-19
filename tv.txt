@@ -72,7 +72,7 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 
 
 
-本地天气,#genre#
+本地 天气,#genre#
 天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 连云港 新闻,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港 公共,http://live.lyg1.com/ggpd/sd/live.m3u8
