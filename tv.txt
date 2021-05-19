@@ -59,6 +59,8 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -90,8 +92,7 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 
 
 电影,#genre#
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 电影1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 电影2,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
