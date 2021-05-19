@@ -241,8 +241,8 @@ iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=z
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/index.m3u8
-厦门一台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8#https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
+厦门卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/index.m3u8
+厦门一台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226814.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8#https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
 厦门二台,https://xiamenalic.v.myalicdn.com/xiamen/xiamen2_1/index.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
 厦门三台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
 厦门移动,https://live1.kxm.xmtv.cn/xmyidong/playlist.m3u8
