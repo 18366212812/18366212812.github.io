@@ -52,6 +52,7 @@ CCTV-17 农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 港澳台,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
