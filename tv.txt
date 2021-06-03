@@ -57,10 +57,8 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 浙江6,http://hw-m-l.cztv.com/channels/lantian/channel06/540p.m3u8
 浙江新闻7,http://hw-m-l.cztv.com/channels/lantian/channel07/540p.m3u8
 浙江少儿8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
-浙江留学9,http://hw-m-l.cztv.com/channels/lantian/channel09/540p.m3u8
 浙江数码时代12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+浙江蓝13,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
 柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
