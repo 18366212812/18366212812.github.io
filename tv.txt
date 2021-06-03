@@ -23,6 +23,9 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 
 
 山东,#genre#
+日照新闻,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照教育,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 山东卫视,http://livealone302.iqilu.com/iqilu/sdtv.m3u8
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
