@@ -1,12 +1,12 @@
 CCTV,#genre#
-CCTV1综合HD,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-CCTV3综艺HD,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 CCTV5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV6电影HD,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 CCTV7军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV8电视剧HD,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+CCTV8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 CCTV9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 CCTV10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 CCTV11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
