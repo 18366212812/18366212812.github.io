@@ -321,9 +321,9 @@ iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=z
 风顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
 
 北京 上海,#genre#
-北京卫视HD,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-北京文艺HD,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8
-北京纪实HD,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京体育,http://ivi.bupt.edu.cn/hls/btv11.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
 北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
@@ -331,6 +331,12 @@ iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=z
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京卡酷,http://ivi.bupt.edu.cn/hls/btv10.m3u8
+北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+滨海综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
+滨海综艺,http://60.30.52.41/live/bhtv1/playlist.m3u8
+滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
+
 上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
 上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -502,32 +508,7 @@ iHoT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=z
 陇川电视,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
-北京,#genre#
-北京淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
-北京淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/index.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
-北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
-北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
-北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
-北京体育,http://ivi.bupt.edu.cn/hls/btv11.m3u8
-北京影视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-北京文艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京生活,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/index.m3u8
-北京科教,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-北京东奥,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226668/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-卡酷少儿,http://39.135.138.6:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
-北京新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8#http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-北京财经,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8
-北京青年,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-滨海综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
-滨海综艺,http://60.30.52.41/live/bhtv1/playlist.m3u8
-滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
+其他,#genre#
 
 
 哈尔滨综合,http://39.134.65.175/PLTV/88888888/224/3221225684/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
