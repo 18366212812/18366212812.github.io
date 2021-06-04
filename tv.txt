@@ -1,6 +1,19 @@
-天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+港澳台,#genre#
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 
 CCTV,#genre#
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -150,30 +163,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 河北卫视 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
 河南卫视 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd
 上视纪实 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-港澳台,#genre#
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 
 
@@ -461,7 +450,8 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 汉中综合,http://live.hzrtvs.com/channel1/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225961/index.m3u8
 汉中公共,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001262?virtualDomain=yinhe.live_hls.zte.com
 
-动画,#genre#
+
+其他,#genre#
 Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 Baby First,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 TVO Kids,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
@@ -469,4 +459,15 @@ Kidoodle ca,https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 Kidoodle  uk,https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 GNTV Kids Channel,https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
 Kartoon Fun Time,https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
