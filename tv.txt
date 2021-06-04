@@ -1,7 +1,6 @@
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 [V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -11,6 +10,7 @@
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 
 CCTV,#genre#
 天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -58,6 +58,20 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 山东农科8,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东少儿9,http://livealone302.iqilu.com/iqilu/sepd.m3u8
 
+上海天津,#genre#
+上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
+上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+浦东电视,http://pdtvlive.pudongtv.cn/live/pdtv.m3u8
+嘉定电视台,http://5730.liveplay.myqcloud.com/live/Mar.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+第一财经,http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226172/index.m3u8
+
+滨海综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
+滨海综艺,http://60.30.52.41/live/bhtv1/playlist.m3u8
+滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
 
 浙江,#genre#
 杭州综合1,http://live.hoolo.tv/hztv1/sd/live.m3u8
@@ -105,6 +119,53 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 义乌综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+
+
+新疆内蒙,#genre#
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆汉语综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆汉语生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆汉语法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆汉语体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆少儿频道12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+内蒙古综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古经济,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
+内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
+内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
+内蒙古文化,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
+内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
+
+伊利汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
+可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+石河子综合台,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+石河子影视台,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+石河子生活台,http://124.88.144.73:1935/live/dywt/playlist.m3u8
+石河子教育台,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+奎屯综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
+
+
+新疆维语综合2,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
+新疆维语综艺3,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
+新疆维语经济9,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
+新疆哈语综合3,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
+伊利维吾尔族,http://110.153.180.106:55555/out_2/index.m3u8
+伊利哈萨克族,http://110.153.180.106:55555/out_3/index.m3u8
+伊利经济法治,http://110.153.180.106:55555/out_4/index.m3u8
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
+兵团卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/index.m3u8#http://livewjq.chinamcache.com/live/wjq3.m3u8
+昆玉综合,https://liveout.btzx.com.cn/82vykq/zm8xdh.m3u8
+
+
+鄂尔多斯综合,http://116.136.138.101:800/16XW47m/live.m3u8
+鄂尔多斯经济,http://116.136.138.101:800/skr9x4S/live.m3u8
+鄂尔多斯生活,http://116.136.138.101:800/Wwz5Rge/live.m3u8
+达茂综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161717906728027.m3u8
+固阳综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+突泉综合,http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live160447331668536.m3u8
+阿拉善综合,http://pili-live-hls.ahrm.tianma3600.com/alszb/liveals.m3u8
+阿拉善经济,http://pili-live-hls.ahrm.tianma3600.com/alszb/liveals2.m3u8
 
 卫视,#genre#
 山东卫视,http://ivi.bupt.edu.cn/hls/sdtv.m3u8
@@ -297,76 +358,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 风顺综合,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
 风顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
 
-北京 上海,#genre#
-上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
-上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-浦东电视,http://pdtvlive.pudongtv.cn/live/pdtv.m3u8
-嘉定电视台,http://5730.liveplay.myqcloud.com/live/Mar.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-第一财经,http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226172/index.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京体育,http://ivi.bupt.edu.cn/hls/btv11.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
-北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
-北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
-北京卡酷,http://ivi.bupt.edu.cn/hls/btv10.m3u8
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-滨海综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
-滨海综艺,http://60.30.52.41/live/bhtv1/playlist.m3u8
-滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
 
-
-新疆内蒙,#genre#
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
-新疆汉语综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-新疆汉语生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
-新疆汉语法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-新疆汉语体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-新疆少儿频道12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-伊利汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
-可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-石河子综合台,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-石河子影视台,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-石河子生活台,http://124.88.144.73:1935/live/dywt/playlist.m3u8
-石河子教育台,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-奎屯综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
-
-
-新疆维语综合2,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
-新疆维语综艺3,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
-新疆维语经济9,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
-新疆哈语综合3,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
-伊利维吾尔族,http://110.153.180.106:55555/out_2/index.m3u8
-伊利哈萨克族,http://110.153.180.106:55555/out_3/index.m3u8
-伊利经济法治,http://110.153.180.106:55555/out_4/index.m3u8
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
-兵团卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/index.m3u8#http://livewjq.chinamcache.com/live/wjq3.m3u8
-昆玉综合,https://liveout.btzx.com.cn/82vykq/zm8xdh.m3u8
-
-内蒙古综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-内蒙古经济,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
-内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
-内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-内蒙古文化,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
-内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
-鄂尔多斯综合,http://116.136.138.101:800/16XW47m/live.m3u8
-鄂尔多斯经济,http://116.136.138.101:800/skr9x4S/live.m3u8
-鄂尔多斯生活,http://116.136.138.101:800/Wwz5Rge/live.m3u8
-达茂综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161717906728027.m3u8
-固阳综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
-突泉综合,http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live160447331668536.m3u8
-阿拉善综合,http://pili-live-hls.ahrm.tianma3600.com/alszb/liveals.m3u8
-阿拉善经济,http://pili-live-hls.ahrm.tianma3600.com/alszb/liveals2.m3u8
 
 云贵川渝,#genre#
 四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
@@ -448,24 +440,4 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 汉中综合,http://live.hzrtvs.com/channel1/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225961/index.m3u8
 汉中公共,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001262?virtualDomain=yinhe.live_hls.zte.com
 
-
-其他,#genre#
-Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-Baby First,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-TVO Kids,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-Kidoodle ca,https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-Kidoodle  uk,https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
-GNTV Kids Channel,https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
-Kartoon Fun Time,https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
-CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
