@@ -1,10 +1,5 @@
-CHC高清电影,http://www.yeyuhome.online:4000/udp/239.253.254.154:8000
-CHC动作电影,http://www.yeyuhome.online:4000/udp/239.253.254.153:8000
-CHC家庭影院,http://www.yeyuhome.online:4000/udp/239.253.254.152:8000
-山东教育HD,http://www.yeyuhome.online:4000/udp/239.253.254.59:8000
-山东齐鲁HD,http://www.yeyuhome.online:4000/udp/239.253.254.114:8000
-山东综艺HD,http://www.yeyuhome.online:4000/udp/239.253.254.159:8000
-山东影视HD,http://www.yeyuhome.online:4000/udp/239.253.254.160:8000
-山东生活HD,http://www.yeyuhome.online:4000/udp/239.253.254.151:8000
-山东新闻HD,http://www.yeyuhome.online:4000/udp/239.253.254.23:8000
-山东农科HD,http://www.yeyuhome.online:4000/udp/239.253.254.24:8000
+1,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/89103_Uni.sdp
+2,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/89070_Uni.sdp
+3,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/89042_Uni.sdp
+4,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/88995_Uni.sdp
+5,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12101814165876183439.rsc/89098_Uni.sdp
