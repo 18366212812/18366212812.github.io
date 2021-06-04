@@ -20,7 +20,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-
+书画频道,http://36.112.79.186:8235/hls/hd-live.m3u8
 
 日照,#genre#
 日照新闻1,http://live.rzw.com.cn/xwzh/sd/live.m3u8
