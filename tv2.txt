@@ -1,4 +1,19 @@
+凤凰,#genre#
+凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+
 CCTV,#genre#
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -20,7 +35,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-
+书画频道,http://36.112.79.186:8235/hls/hd-live.m3u8
 
 日照,#genre#
 日照新闻1,http://live.rzw.com.cn/xwzh/sd/live.m3u8
@@ -28,7 +43,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 日照公共3,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 连云港新闻1,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共2,http://live.lyg1.com/ggpd/sd/live.m3u8
-天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 济宁综合1,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 德州综合1,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 德州公共2,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
@@ -46,12 +60,11 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 
 
 浙江,#genre#
-杭州综合,http://live.hoolo.tv/hztv1/sd/live.m3u8
-杭州明珠,http://live.hoolo.tv/hztv2/sd/live.m3u8
-杭州生活,http://live.hoolo.tv/hztv3/sd/live.m3u8
-杭州影视,http://live.hoolo.tv/hztv4/sd/live.m3u8
-杭州少儿,http://live.hoolo.tv/hztv5/sd/live.m3u8
-浙江卫视1,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+杭州综合1,http://live.hoolo.tv/hztv1/sd/live.m3u8
+杭州明珠2,http://live.hoolo.tv/hztv2/sd/live.m3u8
+杭州生活3,http://live.hoolo.tv/hztv3/sd/live.m3u8
+杭州影视4,http://live.hoolo.tv/hztv4/sd/live.m3u8
+杭州少儿5,http://live.hoolo.tv/hztv5/sd/live.m3u8
 浙江国际10,http://hw-m-l.cztv.com/channels/lantian/channel10/540p.m3u8
 浙江钱江2,http://hw-m-l.cztv.com/channels/lantian/channel02/540p.m3u8
 浙江经济3,http://hw-m-l.cztv.com/channels/lantian/channel03/540p.m3u8
@@ -62,6 +75,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 浙江少儿8,http://hw-m-l.cztv.com/channels/lantian/channel08/540p.m3u8
 浙江数码时代12,http://hw-m-l.cztv.com/channels/lantian/channel12/540p.m3u8
 浙江蓝13,http://hw-m-l.cztv.com/channels/lantian/channel13/540p.m3u8
+浙江卫视1,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
 柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -149,30 +163,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 河北卫视 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
 河南卫视 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd
 上视纪实 高清,rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-港澳台,#genre#
-凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-[V]音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 
 
@@ -308,6 +298,15 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 风顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
 
 北京 上海,#genre#
+上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
+上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+浦东电视,http://pdtvlive.pudongtv.cn/live/pdtv.m3u8
+嘉定电视台,http://5730.liveplay.myqcloud.com/live/Mar.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+第一财经,http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226172/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京体育,http://ivi.bupt.edu.cn/hls/btv11.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
@@ -323,17 +322,6 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 滨海综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
 滨海综艺,http://60.30.52.41/live/bhtv1/playlist.m3u8
 滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
-
-上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
-上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-浦东电视,http://pdtvlive.pudongtv.cn/live/pdtv.m3u8
-嘉定电视台,http://5730.liveplay.myqcloud.com/live/Mar.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-第一财经,http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226172/index.m3u8
-
 
 
 新疆内蒙,#genre#
@@ -447,9 +435,6 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 江川电视,http://live.ynurl.com/video/s10037-JCTV/index.m3u8
 陇川电视,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
-
-其他,#genre#
-
 葫芦岛综合,http://live.hldbtv.com/xwzh/sd/live.m3u8
 哈尔滨综合,http://39.134.65.175/PLTV/88888888/224/3221225684/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 西安综合,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
@@ -462,3 +447,25 @@ CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 汉中综合,http://live.hzrtvs.com/channel1/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225961/index.m3u8
 汉中公共,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001262?virtualDomain=yinhe.live_hls.zte.com
+
+
+其他,#genre#
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Baby First,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+TVO Kids,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+Kidoodle ca,https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Kidoodle  uk,https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+GNTV Kids Channel,https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
+Kartoon Fun Time,https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+f法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+CNN新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
