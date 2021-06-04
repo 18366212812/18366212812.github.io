@@ -1,4 +1,4 @@
-港澳台,#genre#
+凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
