@@ -1,4 +1,5 @@
 CCTV,#genre#
+天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -28,7 +29,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 日照公共3,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 连云港新闻1,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共2,http://live.lyg1.com/ggpd/sd/live.m3u8
-天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 济宁综合1,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 德州综合1,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 德州公共2,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
