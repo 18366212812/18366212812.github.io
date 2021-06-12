@@ -133,7 +133,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 内蒙古农牧6,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
 内蒙古娱乐8,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
 内蒙古经济2,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
-内蒙古卫视1,http://live5.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古卫视1,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 内蒙古少儿4,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
 内蒙古文化5,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
 内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
