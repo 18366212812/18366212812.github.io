@@ -142,7 +142,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 鄂尔多斯综合,http://116.136.138.101:800/16XW47m/live.m3u8
 鄂尔多斯经济,http://116.136.138.101:800/skr9x4S/live.m3u8
 鄂尔多斯生活,http://116.136.138.101:800/Wwz5Rge/live.m3u8
-达茂综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161717906728027.m3u8
 固阳综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
 突泉综合,http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live160447331668536.m3u8
 阿拉善综合,http://pili-live-hls.ahrm.tianma3600.com/alszb/liveals.m3u8
