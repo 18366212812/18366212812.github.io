@@ -58,15 +58,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 山东综艺7,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东农科8,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东少儿9,http://livealone302.iqilu.com/iqilu/sepd.m3u8
-
-上海,#genre#
-上海综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
-上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-浦东电视,http://pdtvlive.pudongtv.cn/live/pdtv.m3u8
-嘉定电视台,http://5730.liveplay.myqcloud.com/live/Mar.m3u8
-上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 
 
 浙江,#genre#
