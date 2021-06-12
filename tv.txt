@@ -116,17 +116,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 新疆法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
 新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-
-内蒙古,#genre#
-内蒙古综合7,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-内蒙古农牧6,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古娱乐8,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-内蒙古经济2,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
-内蒙古卫视1,http://live5.m2oplus.nmtv.cn/1/sd/live.m3u8
-内蒙古少儿4,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-内蒙古文化5,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
-内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
-
 伊利汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 石河子综合台,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
@@ -141,6 +130,17 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 兵团卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/index.m3u8#http://livewjq.chinamcache.com/live/wjq3.m3u8
 昆玉综合,https://liveout.btzx.com.cn/82vykq/zm8xdh.m3u8
+
+
+内蒙古,#genre#
+内蒙古综合7,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+内蒙古农牧6,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古娱乐8,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古经济2,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
+内蒙古卫视1,http://live5.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古少儿4,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
+内蒙古文化5,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
+内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 
 
 鄂尔多斯综合,http://116.136.138.101:800/16XW47m/live.m3u8
