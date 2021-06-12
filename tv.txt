@@ -340,16 +340,14 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 
 
 
-云贵川渝,#genre#
+云贵川,#genre#
 四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 四川新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 四川旅游,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
 四川经济,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 四川乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 四川老少,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-绵阳综合,http://live.sctvcloud.com/live/myzh/playlist.m3u8
 甘孜综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-资阳综合,http://zbzy.sczytv.com/live/zytvnews.m3u8
 成都综合,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=1
 成都公共,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=5
 成都影视,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=45
