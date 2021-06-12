@@ -116,19 +116,15 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 新疆法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
 新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-伊利汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
+伊利综合,http://110.153.180.106:55555/out_1/index.m3u8
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-石河子综合台,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-石河子影视台,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-石河子生活台,http://124.88.144.73:1935/live/dywt/playlist.m3u8
-石河子教育台,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+石河子综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+石河子生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
+石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 奎屯综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
-
-伊利维吾尔族,http://110.153.180.106:55555/out_2/index.m3u8
-伊利哈萨克族,http://110.153.180.106:55555/out_3/index.m3u8
 伊利经济法治,http://110.153.180.106:55555/out_4/index.m3u8
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
-兵团卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/index.m3u8#http://livewjq.chinamcache.com/live/wjq3.m3u8
+兵团卫视,http://livewjq.chinamcache.com/live/wjq3.m3u8
 昆玉综合,https://liveout.btzx.com.cn/82vykq/zm8xdh.m3u8
 
 
