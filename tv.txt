@@ -109,20 +109,22 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 
 
-新疆内蒙,#genre#
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
-新疆汉语综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-新疆汉语生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
-新疆汉语法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-新疆汉语体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-新疆少儿频道12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-内蒙古综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-内蒙古经济,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
-内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
-内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-内蒙古文化,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
+新疆,#genre#
+新疆卫视1,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆综艺4,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆生活7,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆法治11,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆体育10,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆少儿12,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+
+内蒙古,#genre#
+内蒙古综合7,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+内蒙古农牧6,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古娱乐8,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古经济2,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
+内蒙古卫视1,http://live5.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古少儿4,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
+内蒙古文化5,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
 内蒙古足球,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 
 伊利汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
@@ -133,11 +135,6 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 石河子教育台,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 奎屯综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 
-
-新疆维语综合2,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
-新疆维语综艺3,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
-新疆维语经济9,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
-新疆哈语综合3,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
 伊利维吾尔族,http://110.153.180.106:55555/out_2/index.m3u8
 伊利哈萨克族,http://110.153.180.106:55555/out_3/index.m3u8
 伊利经济法治,http://110.153.180.106:55555/out_4/index.m3u8
