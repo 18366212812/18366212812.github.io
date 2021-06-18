@@ -1,3 +1,7 @@
+NEW,#genre#
+
+CCTV-1,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+CCTV-6,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 
 台湾FQ,#genre#
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
