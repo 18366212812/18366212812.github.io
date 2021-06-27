@@ -480,6 +480,14 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 十二师电视台,http://hwapi.yunshicloud.com/8e9h94/37r76z.m3u8
 十四师综合,https://liveout.btzx.com.cn/82vykq/zm8xdh.m3u8
 
+云南
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnanweishi/playlist.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnandushi/playlist.m3u8
+云南公共,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnangonggong/playlist.m3u8
+云南生活,http://tvlive.ynradio.com/live/yunnanshenghuo/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnanshenghuo/playlist.m3u8
+澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnanguoji/playlist.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8#http://yntvpullhls.ynradio.com/live/yunnanyule/playlist.m3u8
 
 长江云,#genre#
 宜昌综合,http://yichang-live21.cjyun.org/cjyun/s10091-yczh.m3u8?auth_key=1625068799-0-0-ab5a6b50a04e4495b64470353eefa003
