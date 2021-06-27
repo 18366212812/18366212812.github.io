@@ -19,6 +19,7 @@
 山东农科8,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东少儿9,http://livealone302.iqilu.com/iqilu/sepd.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+
 凤凰,#genre#
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
@@ -32,6 +33,9 @@
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+空间站摄像头,http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 CCTV,#genre#
 天气预报,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -59,6 +63,35 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
 书画频道,http://36.112.79.186:8235/hls/hd-live.m3u8
 
+CCTV河南,#genre#
+CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
+CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
+CCTV5+,http://123.6.9.146/live/jz-cctv-5-plus/live.m3u8
+CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8
+CCTV7,http://123.6.9.146/live/jz-cctv-7/live.m3u8
+CCTV9,http://123.6.9.146/live/jz-cctv-9/live.m3u8
+CCTV10,http://123.6.9.146/live/jz-cctv-10/live.m3u8
+CCTV11,http://123.6.9.146/live/jz-cctv-11/live.m3u8
+CCTV12,http://123.6.9.146/live/jz-cctv-12/live.m3u8
+CCTV13,http://123.6.9.146/live/jz-cctv-13/live.m3u8
+CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
+远程党员教育,http://123.6.9.146/live/jz-m-ycjy/live.m3u8
+湖南卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8
+江苏卫视,http://123.6.9.146/live/jz-jiangsuweishi-gq/live.m3u8
+安徽卫视,http://123.6.9.146/live/jz-anhuiweishi-gq/live.m3u8
+浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8
+深圳卫视,http://123.6.9.146/live/jz-shenzhenweishi/live.m3u8
+重庆卫视,http://123.6.9.146/live/jz-chongqingweishi/live.m3u8
+北京卫视,http://123.6.9.146/live/jz-beijingweishi/live.m3u8
+东方卫视,http://123.6.9.146/live/jz-shanghaiweishi-gq/live.m3u8
+河南卫视,http://123.6.9.146/live/jz-hnweishi/live.m3u8
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8
+河南梨园,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+河南新农村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8
+河南文物宝库,http://123.6.9.146/live/jz-henanwenwu/live.m3u8
+金鹰卡通,http://123.6.9.146/live/jz-jinyingkatong/live.m3u8
 
 浙江,#genre#
 杭州综合1,http://live.hoolo.tv/hztv1/sd/live.m3u8
