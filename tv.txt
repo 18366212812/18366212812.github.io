@@ -1,4 +1,4 @@
-CCTV  河南,#genre#
+CCTV 河南,#genre#
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
