@@ -1,4 +1,4 @@
-CCTV （河南）,#genre#
+CCTV  河南,#genre#
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
@@ -458,6 +458,8 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 深圳众创,http://liveplay.sznews.com/66_norecord_live/341.m3u8
 深圳东部,http://liveplay.sznews.com/66_norecord_live/343.m3u8
 深圳龙岗,http://liveplay.sznews.com/66_norecord_live/357.m3u8
+
+长江云,#genre#
 宜昌综合 http://yichang-live21.cjyun.org/cjyun/s10091-yczh.m3u8?auth_key=1625068799-0-0-ab5a6b50a04e4495b64470353eefa003
 宜昌公共 http://yichang-live21.cjyun.org/cjyun/s10091-ycgg.m3u8?auth_key=1625068799-0-0-af174f09e6e2a65a9cd79db6265da6fb
 宜昌旅游生活 http://yichang-live21.cjyun.org/cjyun/s10091-ycly.m3u8?auth_key=1625068799-0-0-431a0ff1feab44c4a39aab7f7749793c
